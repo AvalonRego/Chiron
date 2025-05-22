@@ -1,0 +1,21 @@
+# Ignore all .h5 files
+*.h5
+
+# Ignore all .tmp files
+*.tmp
+
+# Ignore all .parquet files
+*.parquet
+
+# Ignore the data directory
+Data/
+
+*.npy
+
+*.err
+
+*err.*
+
+*out.*
+
+*.out

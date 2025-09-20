@@ -1,0 +1,1802 @@
+2025-09-19 07:42:35,620 - INFO - Loaded skip configuration: 0 files to skip entirely, 21186 files with partial record skips
+2025-09-19 07:42:35,654 - INFO - Loaded skip configuration: 0 files to skip entirely, 21186 files with partial record skips
+2025-09-19 07:42:36,051 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13485.h5
+2025-09-19 07:42:36,087 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20698.h5
+2025-09-19 07:42:36,231 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7515.h5
+2025-09-19 07:42:36,265 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15598.h5
+2025-09-19 07:42:36,276 - INFO - File 13485: Filtered 42206 hits and 1 records
+2025-09-19 07:42:36,319 - INFO - File 20698: Filtered 76557 hits and 2 records
+2025-09-19 07:42:36,429 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10797.h5
+2025-09-19 07:42:36,439 - INFO - File 7515: Filtered 117047 hits and 3 records
+2025-09-19 07:42:36,454 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4893.h5
+2025-09-19 07:42:36,495 - INFO - File 15598: Filtered 124782 hits and 4 records
+2025-09-19 07:42:36,616 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2229.h5
+2025-09-19 07:42:36,648 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2284.h5
+2025-09-19 07:42:36,655 - INFO - File 10797: Filtered 220241 hits and 4 records
+2025-09-19 07:42:36,701 - INFO - File 4893: Filtered 150772 hits and 3 records
+2025-09-19 07:42:36,815 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3188.h5
+2025-09-19 07:42:36,840 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7815.h5
+2025-09-19 07:42:36,862 - INFO - File 2229: Filtered 0 hits and 0 records
+2025-09-19 07:42:36,892 - INFO - File 2284: Filtered 263371 hits and 5 records
+2025-09-19 07:42:37,025 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13485.h5 in 0.97 seconds
+2025-09-19 07:42:37,055 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3634.h5
+2025-09-19 07:42:37,059 - INFO - File 3188: Filtered 274378 hits and 5 records
+2025-09-19 07:42:37,059 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15017.h5
+2025-09-19 07:42:37,084 - INFO - File 7815: Filtered 35335 hits and 2 records
+2025-09-19 07:42:37,094 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7515.h5 in 0.86 seconds
+2025-09-19 07:42:37,237 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/6423.h5
+2025-09-19 07:42:37,262 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15612.h5
+2025-09-19 07:42:37,287 - INFO - File 3634: Filtered 117549 hits and 3 records
+2025-09-19 07:42:37,305 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10797.h5 in 0.88 seconds
+2025-09-19 07:42:37,335 - INFO - File 15017: Filtered 364387 hits and 4 records
+2025-09-19 07:42:37,391 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4893.h5 in 0.94 seconds
+2025-09-19 07:42:37,441 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15619.h5
+2025-09-19 07:42:37,464 - INFO - File 6423: Filtered 19451 hits and 1 records
+2025-09-19 07:42:37,481 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7359.h5
+2025-09-19 07:42:37,518 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20698.h5 in 1.43 seconds
+2025-09-19 07:42:37,531 - INFO - File 15612: Filtered 251510 hits and 6 records
+2025-09-19 07:42:37,611 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2284.h5 in 0.96 seconds
+2025-09-19 07:42:37,623 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14643.h5
+2025-09-19 07:42:37,647 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3188.h5 in 0.83 seconds
+2025-09-19 07:42:37,669 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2229.h5 in 1.05 seconds
+2025-09-19 07:42:37,676 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/18951.h5
+2025-09-19 07:42:37,718 - INFO - File 15619: Filtered 111048 hits and 2 records
+2025-09-19 07:42:37,739 - INFO - File 7359: Filtered 271478 hits and 6 records
+2025-09-19 07:42:37,801 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15598.h5 in 1.54 seconds
+2025-09-19 07:42:37,829 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/19589.h5
+2025-09-19 07:42:37,863 - INFO - File 14643: Filtered 198555 hits and 1 records
+2025-09-19 07:42:37,903 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/22334.h5
+2025-09-19 07:42:37,903 - INFO - File 18951: Filtered 234484 hits and 4 records
+2025-09-19 07:42:38,006 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15017.h5 in 0.95 seconds
+2025-09-19 07:42:38,043 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20999.h5
+2025-09-19 07:42:38,053 - INFO - File 19589: Filtered 81199 hits and 2 records
+2025-09-19 07:42:38,090 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/17752.h5
+2025-09-19 07:42:38,150 - INFO - File 22334: Filtered 343074 hits and 6 records
+2025-09-19 07:42:38,214 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/6423.h5 in 0.98 seconds
+2025-09-19 07:42:38,265 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4339.h5
+2025-09-19 07:42:38,284 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/22490.h5
+2025-09-19 07:42:38,294 - INFO - File 20999: Filtered 161892 hits and 3 records
+2025-09-19 07:42:38,340 - INFO - File 17752: Filtered 153500 hits and 1 records
+2025-09-19 07:42:38,448 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/12585.h5
+2025-09-19 07:42:38,463 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3634.h5 in 1.41 seconds
+2025-09-19 07:42:38,495 - INFO - File 4339: Filtered 221883 hits and 4 records
+2025-09-19 07:42:38,528 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/17508.h5
+2025-09-19 07:42:38,531 - INFO - File 22490: Filtered 227974 hits and 5 records
+2025-09-19 07:42:38,658 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14132.h5
+2025-09-19 07:42:38,672 - INFO - File 12585: Filtered 71528 hits and 2 records
+2025-09-19 07:42:38,707 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7815.h5 in 1.87 seconds
+2025-09-19 07:42:38,783 - INFO - File 17508: Filtered 352644 hits and 3 records
+2025-09-19 07:42:38,791 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2546.h5
+2025-09-19 07:42:38,890 - INFO - File 14132: Filtered 140205 hits and 3 records
+2025-09-19 07:42:38,892 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/11525.h5
+2025-09-19 07:42:39,024 - INFO - File 2546: Filtered 197093 hits and 4 records
+2025-09-19 07:42:39,046 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7359.h5 in 1.56 seconds
+2025-09-19 07:42:39,083 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/18951.h5 in 1.41 seconds
+2025-09-19 07:42:39,126 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5464.h5
+2025-09-19 07:42:39,145 - INFO - File 11525: Filtered 427250 hits and 5 records
+2025-09-19 07:42:39,184 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15612.h5 in 1.92 seconds
+2025-09-19 07:42:39,239 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4339.h5 in 0.97 seconds
+2025-09-19 07:42:39,311 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7636.h5
+2025-09-19 07:42:39,337 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7133.h5
+2025-09-19 07:42:39,361 - INFO - File 5464: Filtered 250278 hits and 6 records
+2025-09-19 07:42:39,407 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/22334.h5 in 1.50 seconds
+2025-09-19 07:42:39,464 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14643.h5 in 1.84 seconds
+2025-09-19 07:42:39,521 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/17508.h5 in 0.99 seconds
+2025-09-19 07:42:39,526 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15856.h5
+2025-09-19 07:42:39,544 - INFO - File 7636: Filtered 204785 hits and 3 records
+2025-09-19 07:42:39,573 - INFO - File 7133: Filtered 480699 hits and 4 records
+2025-09-19 07:42:39,575 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15619.h5 in 2.13 seconds
+2025-09-19 07:42:39,623 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13919.h5
+2025-09-19 07:42:39,677 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14132.h5 in 1.02 seconds
+2025-09-19 07:42:39,748 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/302.h5
+2025-09-19 07:42:39,764 - INFO - File 15856: Filtered 282338 hits and 5 records
+2025-09-19 07:42:39,798 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/11525.h5 in 0.91 seconds
+2025-09-19 07:42:39,804 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/19589.h5 in 1.98 seconds
+2025-09-19 07:42:39,809 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9534.h5
+2025-09-19 07:42:39,843 - INFO - File 13919: Filtered 196541 hits and 5 records
+2025-09-19 07:42:39,865 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/22490.h5 in 1.58 seconds
+2025-09-19 07:42:39,940 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13691.h5
+2025-09-19 07:42:39,967 - INFO - File 302: Filtered 343572 hits and 6 records
+2025-09-19 07:42:40,015 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20059.h5
+2025-09-19 07:42:40,033 - INFO - File 9534: Filtered 229057 hits and 4 records
+2025-09-19 07:42:40,038 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20999.h5 in 1.99 seconds
+2025-09-19 07:42:40,108 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/17752.h5 in 2.02 seconds
+2025-09-19 07:42:40,166 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/6626.h5
+2025-09-19 07:42:40,212 - INFO - File 13691: Filtered 207961 hits and 4 records
+2025-09-19 07:42:40,225 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/17296.h5
+2025-09-19 07:42:40,264 - INFO - File 20059: Filtered 248522 hits and 4 records
+2025-09-19 07:42:40,329 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7133.h5 in 0.99 seconds
+2025-09-19 07:42:40,384 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/6078.h5
+2025-09-19 07:42:40,422 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/12585.h5 in 1.97 seconds
+2025-09-19 07:42:40,424 - INFO - File 6626: Filtered 289018 hits and 3 records
+2025-09-19 07:42:40,426 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/19673.h5
+2025-09-19 07:42:40,437 - INFO - File 17296: Filtered 45903 hits and 1 records
+2025-09-19 07:42:40,582 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14435.h5
+2025-09-19 07:42:40,621 - INFO - File 6078: Filtered 165206 hits and 3 records
+2025-09-19 07:42:40,643 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/22734.h5
+2025-09-19 07:42:40,665 - INFO - File 19673: Filtered 75412 hits and 2 records
+2025-09-19 07:42:40,692 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5464.h5 in 1.57 seconds
+2025-09-19 07:42:40,704 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2546.h5 in 1.91 seconds
+2025-09-19 07:42:40,744 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7636.h5 in 1.43 seconds
+2025-09-19 07:42:40,770 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2524.h5
+2025-09-19 07:42:40,838 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4139.h5
+2025-09-19 07:42:40,856 - INFO - File 14435: Filtered 450784 hits and 5 records
+2025-09-19 07:42:40,868 - INFO - File 22734: Filtered 319307 hits and 6 records
+2025-09-19 07:42:40,980 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10003.h5
+2025-09-19 07:42:41,060 - INFO - File 2524: Filtered 88662 hits and 2 records
+2025-09-19 07:42:41,063 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/18327.h5
+2025-09-19 07:42:41,096 - INFO - File 4139: Filtered 313546 hits and 4 records
+2025-09-19 07:42:41,259 - INFO - File 10003: Filtered 330139 hits and 5 records
+2025-09-19 07:42:41,328 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9534.h5 in 1.52 seconds
+2025-09-19 07:42:41,340 - INFO - File 18327: Filtered 105756 hits and 2 records
+2025-09-19 07:42:41,401 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/19755.h5
+2025-09-19 07:42:41,470 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13919.h5 in 1.85 seconds
+2025-09-19 07:42:41,521 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15856.h5 in 1.99 seconds
+2025-09-19 07:42:41,594 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/17224.h5
+2025-09-19 07:42:41,618 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/302.h5 in 1.87 seconds
+2025-09-19 07:42:41,628 - INFO - File 19755: Filtered 243942 hits and 5 records
+2025-09-19 07:42:41,630 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/22734.h5 in 0.99 seconds
+2025-09-19 07:42:41,634 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15376.h5
+2025-09-19 07:42:41,852 - INFO - File 17224: Filtered 149339 hits and 3 records
+2025-09-19 07:42:41,856 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4579.h5
+2025-09-19 07:42:41,872 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20151.h5
+2025-09-19 07:42:41,902 - INFO - File 15376: Filtered 298712 hits and 2 records
+2025-09-19 07:42:41,953 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/6626.h5 in 1.79 seconds
+2025-09-19 07:42:42,062 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20059.h5 in 2.05 seconds
+2025-09-19 07:42:42,087 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/17296.h5 in 1.86 seconds
+2025-09-19 07:42:42,089 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/19749.h5
+2025-09-19 07:42:42,133 - INFO - File 4579: Filtered 405494 hits and 7 records
+2025-09-19 07:42:42,136 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14435.h5 in 1.55 seconds
+2025-09-19 07:42:42,139 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/6599.h5
+2025-09-19 07:42:42,146 - INFO - File 20151: Filtered 197367 hits and 4 records
+2025-09-19 07:42:42,250 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13691.h5 in 2.31 seconds
+2025-09-19 07:42:42,327 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/17337.h5
+2025-09-19 07:42:42,343 - INFO - File 19749: Filtered 105962 hits and 3 records
+2025-09-19 07:42:42,379 - INFO - File 6599: Filtered 300615 hits and 4 records
+2025-09-19 07:42:42,398 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7418.h5
+2025-09-19 07:42:42,468 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4139.h5 in 1.63 seconds
+2025-09-19 07:42:42,523 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10003.h5 in 1.54 seconds
+2025-09-19 07:42:42,537 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20577.h5
+2025-09-19 07:42:42,597 - INFO - File 17337: Filtered 40280 hits and 1 records
+2025-09-19 07:42:42,611 - INFO - File 7418: Filtered 218937 hits and 5 records
+2025-09-19 07:42:42,645 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/12136.h5
+2025-09-19 07:42:42,684 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/19673.h5 in 2.26 seconds
+2025-09-19 07:42:42,738 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/11486.h5
+2025-09-19 07:42:42,810 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/19755.h5 in 1.41 seconds
+2025-09-19 07:42:42,825 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/6078.h5 in 2.44 seconds
+2025-09-19 07:42:42,834 - INFO - File 20577: Filtered 144378 hits and 4 records
+2025-09-19 07:42:42,874 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/12983.h5
+2025-09-19 07:42:42,900 - INFO - File 12136: Filtered 262694 hits and 3 records
+2025-09-19 07:42:42,912 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4579.h5 in 1.06 seconds
+2025-09-19 07:42:42,985 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/11572.h5
+2025-09-19 07:42:43,003 - INFO - File 11486: Filtered 136733 hits and 3 records
+2025-09-19 07:42:43,073 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2940.h5
+2025-09-19 07:42:43,132 - INFO - File 12983: Filtered 134564 hits and 2 records
+2025-09-19 07:42:43,224 - INFO - File 11572: Filtered 50084 hits and 2 records
+2025-09-19 07:42:43,239 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2524.h5 in 2.47 seconds
+2025-09-19 07:42:43,324 - INFO - File 2940: Filtered 194182 hits and 4 records
+2025-09-19 07:42:43,325 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2512.h5
+2025-09-19 07:42:43,329 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/6665.h5
+2025-09-19 07:42:43,346 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/18327.h5 in 2.28 seconds
+2025-09-19 07:42:43,534 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15233.h5
+2025-09-19 07:42:43,596 - INFO - File 2512: Filtered 201051 hits and 1 records
+2025-09-19 07:42:43,599 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20151.h5 in 1.73 seconds
+2025-09-19 07:42:43,608 - INFO - File 6665: Filtered 276486 hits and 5 records
+2025-09-19 07:42:43,700 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/21873.h5
+2025-09-19 07:42:43,774 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7418.h5 in 1.38 seconds
+2025-09-19 07:42:43,833 - INFO - File 15233: Filtered 245823 hits and 2 records
+2025-09-19 07:42:43,860 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/19305.h5
+2025-09-19 07:42:43,919 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/17224.h5 in 2.33 seconds
+2025-09-19 07:42:43,990 - INFO - File 21873: Filtered 180290 hits and 2 records
+2025-09-19 07:42:44,001 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10124.h5
+2025-09-19 07:42:44,027 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15376.h5 in 2.39 seconds
+2025-09-19 07:42:44,134 - INFO - File 19305: Filtered 147286 hits and 3 records
+2025-09-19 07:42:44,150 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/6599.h5 in 2.01 seconds
+2025-09-19 07:42:44,196 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15693.h5
+2025-09-19 07:42:44,272 - INFO - File 10124: Filtered 406231 hits and 5 records
+2025-09-19 07:42:44,273 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/19749.h5 in 2.18 seconds
+2025-09-19 07:42:44,315 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20577.h5 in 1.78 seconds
+2025-09-19 07:42:44,352 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/22233.h5
+2025-09-19 07:42:44,408 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8467.h5
+2025-09-19 07:42:44,425 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/12983.h5 in 1.55 seconds
+2025-09-19 07:42:44,458 - INFO - File 15693: Filtered 218546 hits and 5 records
+2025-09-19 07:42:44,618 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5437.h5
+2025-09-19 07:42:44,624 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/11045.h5
+2025-09-19 07:42:44,628 - INFO - File 22233: Filtered 256766 hits and 3 records
+2025-09-19 07:42:44,677 - INFO - File 8467: Filtered 498455 hits and 7 records
+2025-09-19 07:42:44,721 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2940.h5 in 1.65 seconds
+2025-09-19 07:42:44,806 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/19244.h5
+2025-09-19 07:42:44,862 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/17337.h5 in 2.53 seconds
+2025-09-19 07:42:44,897 - INFO - File 5437: Filtered 0 hits and 0 records
+2025-09-19 07:42:44,909 - INFO - File 11045: Filtered 12064 hits and 1 records
+2025-09-19 07:42:44,931 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/11486.h5 in 2.19 seconds
+2025-09-19 07:42:44,934 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15425.h5
+2025-09-19 07:42:45,013 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/6665.h5 in 1.68 seconds
+2025-09-19 07:42:45,018 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/12136.h5 in 2.37 seconds
+2025-09-19 07:42:45,098 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9670.h5
+2025-09-19 07:42:45,106 - INFO - File 19244: Filtered 235208 hits and 4 records
+2025-09-19 07:42:45,210 - INFO - File 15425: Filtered 28457 hits and 1 records
+2025-09-19 07:42:45,240 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15693.h5 in 1.04 seconds
+2025-09-19 07:42:45,249 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15299.h5
+2025-09-19 07:42:45,292 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/11572.h5 in 2.31 seconds
+2025-09-19 07:42:45,327 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/18096.h5
+2025-09-19 07:42:45,347 - INFO - File 9670: Filtered 248693 hits and 5 records
+2025-09-19 07:42:45,449 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/21140.h5
+2025-09-19 07:42:45,513 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2512.h5 in 2.19 seconds
+2025-09-19 07:42:45,554 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4699.h5
+2025-09-19 07:42:45,576 - INFO - File 15299: Filtered 0 hits and 0 records
+2025-09-19 07:42:45,606 - INFO - File 18096: Filtered 431297 hits and 5 records
+2025-09-19 07:42:45,698 - INFO - File 21140: Filtered 418949 hits and 6 records
+2025-09-19 07:42:45,716 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14990.h5
+2025-09-19 07:42:45,823 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10124.h5 in 1.82 seconds
+2025-09-19 07:42:45,852 - INFO - File 4699: Filtered 400364 hits and 4 records
+2025-09-19 07:42:45,935 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9877.h5
+2025-09-19 07:42:45,961 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15233.h5 in 2.43 seconds
+2025-09-19 07:42:46,036 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2174.h5
+2025-09-19 07:42:46,046 - INFO - File 14990: Filtered 217927 hits and 4 records
+2025-09-19 07:42:46,083 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/21873.h5 in 2.38 seconds
+2025-09-19 07:42:46,213 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/17636.h5
+2025-09-19 07:42:46,237 - INFO - File 9877: Filtered 195402 hits and 3 records
+2025-09-19 07:42:46,295 - INFO - File 2174: Filtered 257509 hits and 4 records
+2025-09-19 07:42:46,366 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/22233.h5 in 2.01 seconds
+2025-09-19 07:42:46,478 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/676.h5
+2025-09-19 07:42:46,554 - INFO - File 17636: Filtered 425671 hits and 5 records
+2025-09-19 07:42:46,624 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8467.h5 in 2.22 seconds
+2025-09-19 07:42:46,694 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2572.h5
+2025-09-19 07:42:46,712 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/11045.h5 in 2.09 seconds
+2025-09-19 07:42:46,748 - INFO - File 676: Filtered 416624 hits and 4 records
+2025-09-19 07:42:46,835 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/12750.h5
+2025-09-19 07:42:46,908 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/19244.h5 in 2.10 seconds
+2025-09-19 07:42:46,955 - INFO - File 2572: Filtered 414645 hits and 5 records
+2025-09-19 07:42:47,011 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20442.h5
+2025-09-19 07:42:47,054 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/18096.h5 in 1.73 seconds
+2025-09-19 07:42:47,084 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/21140.h5 in 1.64 seconds
+2025-09-19 07:42:47,099 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9670.h5 in 2.00 seconds
+2025-09-19 07:42:47,117 - INFO - File 12750: Filtered 505741 hits and 4 records
+2025-09-19 07:42:47,125 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5437.h5 in 2.51 seconds
+2025-09-19 07:42:47,160 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13542.h5
+2025-09-19 07:42:47,177 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9015.h5
+2025-09-19 07:42:47,277 - INFO - File 20442: Filtered 12621 hits and 1 records
+2025-09-19 07:42:47,403 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7162.h5
+2025-09-19 07:42:47,418 - INFO - File 13542: Filtered 547213 hits and 8 records
+2025-09-19 07:42:47,484 - INFO - File 9015: Filtered 453258 hits and 2 records
+2025-09-19 07:42:47,613 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/19305.h5 in 3.75 seconds
+2025-09-19 07:42:47,667 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5549.h5
+2025-09-19 07:42:47,681 - INFO - File 7162: Filtered 463317 hits and 5 records
+2025-09-19 07:42:47,933 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5875.h5
+2025-09-19 07:42:47,969 - INFO - File 5549: Filtered 242119 hits and 5 records
+2025-09-19 07:42:48,039 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15299.h5 in 2.79 seconds
+2025-09-19 07:42:48,052 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4699.h5 in 2.50 seconds
+2025-09-19 07:42:48,113 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5322.h5
+2025-09-19 07:42:48,128 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2174.h5 in 2.09 seconds
+2025-09-19 07:42:48,131 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/11868.h5
+2025-09-19 07:42:48,156 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9877.h5 in 2.22 seconds
+2025-09-19 07:42:48,251 - INFO - File 5875: Filtered 434976 hits and 5 records
+2025-09-19 07:42:48,369 - INFO - File 5322: Filtered 57281 hits and 1 records
+2025-09-19 07:42:48,390 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/21507.h5
+2025-09-19 07:42:48,400 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/21359.h5
+2025-09-19 07:42:48,436 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/12750.h5 in 1.60 seconds
+2025-09-19 07:42:48,440 - INFO - File 11868: Filtered 114487 hits and 2 records
+2025-09-19 07:42:48,459 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14990.h5 in 2.74 seconds
+2025-09-19 07:42:48,491 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15425.h5 in 3.56 seconds
+2025-09-19 07:42:48,642 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13542.h5 in 1.48 seconds
+2025-09-19 07:42:48,665 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/676.h5 in 2.19 seconds
+2025-09-19 07:42:48,675 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20288.h5
+2025-09-19 07:42:48,700 - INFO - File 21507: Filtered 229332 hits and 5 records
+2025-09-19 07:42:48,721 - INFO - File 21359: Filtered 311662 hits and 3 records
+2025-09-19 07:42:48,769 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/17636.h5 in 2.56 seconds
+2025-09-19 07:42:48,856 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10757.h5
+2025-09-19 07:42:48,965 - INFO - File 20288: Filtered 568393 hits and 7 records
+2025-09-19 07:42:48,969 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2572.h5 in 2.28 seconds
+2025-09-19 07:42:49,044 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4181.h5
+2025-09-19 07:42:49,079 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/22572.h5
+2025-09-19 07:42:49,167 - INFO - File 10757: Filtered 308558 hits and 3 records
+2025-09-19 07:42:49,265 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8956.h5
+2025-09-19 07:42:49,354 - INFO - File 22572: Filtered 317114 hits and 4 records
+2025-09-19 07:42:49,363 - INFO - File 4181: Filtered 163055 hits and 1 records
+2025-09-19 07:42:49,426 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9015.h5 in 2.25 seconds
+2025-09-19 07:42:49,474 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/6852.h5
+2025-09-19 07:42:49,529 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3610.h5
+2025-09-19 07:42:49,556 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7162.h5 in 2.15 seconds
+2025-09-19 07:42:49,565 - INFO - File 8956: Filtered 90286 hits and 1 records
+2025-09-19 07:42:49,725 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15059.h5
+2025-09-19 07:42:49,782 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14565.h5
+2025-09-19 07:42:49,805 - INFO - File 6852: Filtered 196738 hits and 3 records
+2025-09-19 07:42:49,837 - INFO - File 3610: Filtered 247729 hits and 4 records
+2025-09-19 07:42:50,044 - INFO - File 15059: Filtered 398487 hits and 4 records
+2025-09-19 07:42:50,089 - INFO - File 14565: Filtered 215674 hits and 4 records
+2025-09-19 07:42:50,149 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5875.h5 in 2.22 seconds
+2025-09-19 07:42:50,254 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7050.h5
+2025-09-19 07:42:50,514 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20288.h5 in 1.84 seconds
+2025-09-19 07:42:50,544 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/21507.h5 in 2.15 seconds
+2025-09-19 07:42:50,563 - INFO - File 7050: Filtered 387404 hits and 5 records
+2025-09-19 07:42:50,587 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16223.h5
+2025-09-19 07:42:50,667 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/21359.h5 in 2.27 seconds
+2025-09-19 07:42:50,676 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5322.h5 in 2.56 seconds
+2025-09-19 07:42:50,743 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20815.h5
+2025-09-19 07:42:50,813 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13535.h5
+2025-09-19 07:42:50,886 - INFO - File 16223: Filtered 178528 hits and 2 records
+2025-09-19 07:42:50,961 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20442.h5 in 3.95 seconds
+2025-09-19 07:42:51,031 - INFO - File 20815: Filtered 270327 hits and 4 records
+2025-09-19 07:42:51,054 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20887.h5
+2025-09-19 07:42:51,089 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10520.h5
+2025-09-19 07:42:51,092 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10757.h5 in 2.24 seconds
+2025-09-19 07:42:51,155 - INFO - File 13535: Filtered 137498 hits and 2 records
+2025-09-19 07:42:51,200 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5549.h5 in 3.53 seconds
+2025-09-19 07:42:51,231 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13315.h5
+2025-09-19 07:42:51,274 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/18048.h5
+2025-09-19 07:42:51,413 - INFO - File 20887: Filtered 52294 hits and 1 records
+2025-09-19 07:42:51,451 - INFO - File 10520: Filtered 330508 hits and 4 records
+2025-09-19 07:42:51,585 - INFO - File 18048: Filtered 434858 hits and 4 records
+2025-09-19 07:42:51,586 - INFO - File 13315: Filtered 373765 hits and 3 records
+2025-09-19 07:42:51,684 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/11868.h5 in 3.55 seconds
+2025-09-19 07:42:51,698 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/22572.h5 in 2.62 seconds
+2025-09-19 07:42:51,748 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4181.h5 in 2.70 seconds
+2025-09-19 07:42:51,768 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4483.h5
+2025-09-19 07:42:51,772 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/21391.h5
+2025-09-19 07:42:51,825 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15059.h5 in 2.10 seconds
+2025-09-19 07:42:52,032 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/18228.h5
+2025-09-19 07:42:52,051 - INFO - File 21391: Filtered 678580 hits and 4 records
+2025-09-19 07:42:52,067 - INFO - File 4483: Filtered 421138 hits and 7 records
+2025-09-19 07:42:52,067 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/18380.h5
+2025-09-19 07:42:52,228 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14565.h5 in 2.45 seconds
+2025-09-19 07:42:52,277 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/17891.h5
+2025-09-19 07:42:52,294 - INFO - File 18228: Filtered 428302 hits and 6 records
+2025-09-19 07:42:52,365 - INFO - File 18380: Filtered 143390 hits and 4 records
+2025-09-19 07:42:52,604 - INFO - File 17891: Filtered 475944 hits and 3 records
+2025-09-19 07:42:52,758 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7050.h5 in 2.50 seconds
+2025-09-19 07:42:52,831 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/21161.h5
+2025-09-19 07:42:53,105 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8956.h5 in 3.84 seconds
+2025-09-19 07:42:53,114 - INFO - File 21161: Filtered 583788 hits and 5 records
+2025-09-19 07:42:53,185 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10520.h5 in 2.10 seconds
+2025-09-19 07:42:53,185 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3610.h5 in 3.66 seconds
+2025-09-19 07:42:53,195 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20815.h5 in 2.45 seconds
+2025-09-19 07:42:53,214 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/6852.h5 in 3.74 seconds
+2025-09-19 07:42:53,215 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/119.h5
+2025-09-19 07:42:53,257 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20801.h5
+2025-09-19 07:42:53,341 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/21391.h5 in 1.57 seconds
+2025-09-19 07:42:53,463 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3933.h5
+2025-09-19 07:42:53,501 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8889.h5
+2025-09-19 07:42:53,525 - INFO - File 119: Filtered 758590 hits and 5 records
+2025-09-19 07:42:53,526 - INFO - File 20801: Filtered 266458 hits and 4 records
+2025-09-19 07:42:53,637 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5181.h5
+2025-09-19 07:42:53,664 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13535.h5 in 2.85 seconds
+2025-09-19 07:42:53,676 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13152.h5
+2025-09-19 07:42:53,765 - INFO - File 3933: Filtered 116190 hits and 2 records
+2025-09-19 07:42:53,780 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13315.h5 in 2.55 seconds
+2025-09-19 07:42:53,834 - INFO - File 8889: Filtered 653462 hits and 3 records
+2025-09-19 07:42:53,895 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10545.h5
+2025-09-19 07:42:53,946 - INFO - File 5181: Filtered 985312 hits and 8 records
+2025-09-19 07:42:53,978 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/18048.h5 in 2.70 seconds
+2025-09-19 07:42:54,020 - INFO - File 13152: Filtered 412126 hits and 4 records
+2025-09-19 07:42:54,052 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13363.h5
+2025-09-19 07:42:54,112 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4.h5
+2025-09-19 07:42:54,125 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4483.h5 in 2.36 seconds
+2025-09-19 07:42:54,160 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/18228.h5 in 2.13 seconds
+2025-09-19 07:42:54,200 - INFO - File 10545: Filtered 136343 hits and 2 records
+2025-09-19 07:42:54,311 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/17245.h5
+2025-09-19 07:42:54,353 - INFO - File 13363: Filtered 206876 hits and 4 records
+2025-09-19 07:42:54,437 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16223.h5 in 3.85 seconds
+2025-09-19 07:42:54,449 - INFO - File 4: Filtered 440291 hits and 6 records
+2025-09-19 07:42:54,488 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/22266.h5
+2025-09-19 07:42:54,567 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/11668.h5
+2025-09-19 07:42:54,619 - INFO - File 17245: Filtered 704220 hits and 8 records
+2025-09-19 07:42:54,639 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5181.h5 in 1.00 seconds
+2025-09-19 07:42:54,750 - INFO - File 22266: Filtered 470655 hits and 7 records
+2025-09-19 07:42:54,789 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/119.h5 in 1.57 seconds
+2025-09-19 07:42:54,832 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/17891.h5 in 2.55 seconds
+2025-09-19 07:42:54,832 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/1998.h5
+2025-09-19 07:42:54,901 - INFO - File 11668: Filtered 257005 hits and 5 records
+2025-09-19 07:42:54,914 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2474.h5
+2025-09-19 07:42:55,008 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20887.h5 in 3.95 seconds
+2025-09-19 07:42:55,046 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9588.h5
+2025-09-19 07:42:55,132 - INFO - File 1998: Filtered 858301 hits and 6 records
+2025-09-19 07:42:55,231 - INFO - File 2474: Filtered 464154 hits and 3 records
+2025-09-19 07:42:55,316 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/21161.h5 in 2.49 seconds
+2025-09-19 07:42:55,361 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4958.h5
+2025-09-19 07:42:55,364 - INFO - File 9588: Filtered 340588 hits and 4 records
+2025-09-19 07:42:55,367 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4256.h5
+2025-09-19 07:42:55,480 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/18380.h5 in 3.41 seconds
+2025-09-19 07:42:55,546 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5243.h5
+2025-09-19 07:42:55,649 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20801.h5 in 2.39 seconds
+2025-09-19 07:42:55,657 - INFO - File 4958: Filtered 565015 hits and 9 records
+2025-09-19 07:42:55,674 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8889.h5 in 2.17 seconds
+2025-09-19 07:42:55,703 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15707.h5
+2025-09-19 07:42:55,732 - INFO - File 4256: Filtered 168650 hits and 4 records
+2025-09-19 07:42:55,870 - INFO - File 5243: Filtered 341523 hits and 4 records
+2025-09-19 07:42:55,950 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/19731.h5
+2025-09-19 07:42:56,006 - INFO - File 15707: Filtered 83316 hits and 2 records
+2025-09-19 07:42:56,327 - INFO - File 19731: Filtered 484937 hits and 5 records
+2025-09-19 07:42:56,369 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/17245.h5 in 2.06 seconds
+2025-09-19 07:42:56,448 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2079.h5
+2025-09-19 07:42:56,526 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/22266.h5 in 2.04 seconds
+2025-09-19 07:42:56,543 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13152.h5 in 2.87 seconds
+2025-09-19 07:42:56,545 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10545.h5 in 2.65 seconds
+2025-09-19 07:42:56,592 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/267.h5
+2025-09-19 07:42:56,721 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/21957.h5
+2025-09-19 07:42:56,736 - INFO - File 2079: Filtered 683957 hits and 5 records
+2025-09-19 07:42:56,799 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/1998.h5 in 1.97 seconds
+2025-09-19 07:42:56,801 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/17667.h5
+2025-09-19 07:42:56,909 - INFO - File 267: Filtered 599539 hits and 6 records
+2025-09-19 07:42:56,933 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2474.h5 in 2.02 seconds
+2025-09-19 07:42:57,052 - INFO - File 21957: Filtered 293558 hits and 4 records
+2025-09-19 07:42:57,057 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/19344.h5
+2025-09-19 07:42:57,067 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/21187.h5
+2025-09-19 07:42:57,159 - INFO - File 17667: Filtered 183884 hits and 2 records
+2025-09-19 07:42:57,382 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3933.h5 in 3.92 seconds
+2025-09-19 07:42:57,403 - INFO - File 19344: Filtered 909038 hits and 9 records
+2025-09-19 07:42:57,421 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/11668.h5 in 2.85 seconds
+2025-09-19 07:42:57,429 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/11507.h5
+2025-09-19 07:42:57,444 - INFO - File 21187: Filtered 417997 hits and 4 records
+2025-09-19 07:42:57,497 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7129.h5
+2025-09-19 07:42:57,526 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2079.h5 in 1.08 seconds
+2025-09-19 07:42:57,722 - INFO - File 11507: Filtered 68878 hits and 1 records
+2025-09-19 07:42:57,744 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13363.h5 in 3.69 seconds
+2025-09-19 07:42:57,787 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/17007.h5
+2025-09-19 07:42:57,830 - INFO - File 7129: Filtered 615787 hits and 5 records
+2025-09-19 07:42:57,881 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4958.h5 in 2.52 seconds
+2025-09-19 07:42:57,936 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4.h5 in 3.82 seconds
+2025-09-19 07:42:57,964 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5823.h5
+2025-09-19 07:42:57,986 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2257.h5
+2025-09-19 07:42:58,121 - INFO - File 17007: Filtered 908969 hits and 5 records
+2025-09-19 07:42:58,132 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/19344.h5 in 1.07 seconds
+2025-09-19 07:42:58,217 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14921.h5
+2025-09-19 07:42:58,243 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13498.h5
+2025-09-19 07:42:58,291 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5243.h5 in 2.75 seconds
+2025-09-19 07:42:58,301 - INFO - File 5823: Filtered 474621 hits and 4 records
+2025-09-19 07:42:58,417 - INFO - File 2257: Filtered 435190 hits and 4 records
+2025-09-19 07:42:58,486 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/18690.h5
+2025-09-19 07:42:58,530 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9588.h5 in 3.48 seconds
+2025-09-19 07:42:58,583 - INFO - File 13498: Filtered 761768 hits and 6 records
+2025-09-19 07:42:58,597 - INFO - File 14921: Filtered 289275 hits and 4 records
+2025-09-19 07:42:58,674 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/267.h5 in 2.08 seconds
+2025-09-19 07:42:58,710 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15230.h5
+2025-09-19 07:42:58,824 - INFO - File 18690: Filtered 610431 hits and 3 records
+2025-09-19 07:42:58,917 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16229.h5
+2025-09-19 07:42:59,054 - INFO - File 15230: Filtered 781716 hits and 5 records
+2025-09-19 07:42:59,243 - INFO - File 16229: Filtered 535631 hits and 6 records
+2025-09-19 07:42:59,365 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/17007.h5 in 1.58 seconds
+2025-09-19 07:42:59,431 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/385.h5
+2025-09-19 07:42:59,476 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15707.h5 in 3.77 seconds
+2025-09-19 07:42:59,655 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/21187.h5 in 2.59 seconds
+2025-09-19 07:42:59,672 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/19731.h5 in 3.72 seconds
+2025-09-19 07:42:59,724 - INFO - File 385: Filtered 368276 hits and 5 records
+2025-09-19 07:42:59,732 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/873.h5
+2025-09-19 07:42:59,910 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/763.h5
+2025-09-19 07:43:00,002 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4256.h5 in 4.63 seconds
+2025-09-19 07:43:00,067 - INFO - File 873: Filtered 596071 hits and 3 records
+2025-09-19 07:43:00,071 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/12229.h5
+2025-09-19 07:43:00,124 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7129.h5 in 2.63 seconds
+2025-09-19 07:43:00,132 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/18690.h5 in 1.65 seconds
+2025-09-19 07:43:00,142 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7147.h5
+2025-09-19 07:43:00,229 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2257.h5 in 2.24 seconds
+2025-09-19 07:43:00,262 - INFO - File 763: Filtered 147869 hits and 3 records
+2025-09-19 07:43:00,335 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8366.h5
+2025-09-19 07:43:00,368 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/11087.h5
+2025-09-19 07:43:00,443 - INFO - File 12229: Filtered 269813 hits and 6 records
+2025-09-19 07:43:00,530 - INFO - File 7147: Filtered 481687 hits and 4 records
+2025-09-19 07:43:00,564 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14757.h5
+2025-09-19 07:43:00,657 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13498.h5 in 2.41 seconds
+2025-09-19 07:43:00,711 - INFO - File 8366: Filtered 954777 hits and 7 records
+2025-09-19 07:43:00,768 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/236.h5
+2025-09-19 07:43:00,772 - INFO - File 11087: Filtered 415364 hits and 2 records
+2025-09-19 07:43:00,797 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15230.h5 in 2.09 seconds
+2025-09-19 07:43:00,851 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/17667.h5 in 4.05 seconds
+2025-09-19 07:43:00,936 - INFO - File 14757: Filtered 313379 hits and 4 records
+2025-09-19 07:43:00,996 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/12252.h5
+2025-09-19 07:43:01,029 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/21957.h5 in 4.31 seconds
+2025-09-19 07:43:01,123 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/11522.h5
+2025-09-19 07:43:01,194 - INFO - File 236: Filtered 466708 hits and 5 records
+2025-09-19 07:43:01,251 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/12402.h5
+2025-09-19 07:43:01,260 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16229.h5 in 2.34 seconds
+2025-09-19 07:43:01,332 - INFO - File 12252: Filtered 403535 hits and 5 records
+2025-09-19 07:43:01,475 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/6928.h5
+2025-09-19 07:43:01,487 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/11507.h5 in 4.06 seconds
+2025-09-19 07:43:01,493 - INFO - File 11522: Filtered 214781 hits and 3 records
+2025-09-19 07:43:01,649 - INFO - File 12402: Filtered 684748 hits and 4 records
+2025-09-19 07:43:01,684 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/19091.h5
+2025-09-19 07:43:01,702 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5823.h5 in 3.74 seconds
+2025-09-19 07:43:01,773 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5326.h5
+2025-09-19 07:43:01,875 - INFO - File 6928: Filtered 141962 hits and 3 records
+2025-09-19 07:43:02,061 - INFO - File 19091: Filtered 748176 hits and 4 records
+2025-09-19 07:43:02,102 - INFO - File 5326: Filtered 876309 hits and 6 records
+2025-09-19 07:43:02,178 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8366.h5 in 1.84 seconds
+2025-09-19 07:43:02,244 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3594.h5
+2025-09-19 07:43:02,394 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/873.h5 in 2.66 seconds
+2025-09-19 07:43:02,465 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16344.h5
+2025-09-19 07:43:02,582 - INFO - File 3594: Filtered 480914 hits and 5 records
+2025-09-19 07:43:02,710 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14921.h5 in 4.49 seconds
+2025-09-19 07:43:02,765 - INFO - File 16344: Filtered 539976 hits and 7 records
+2025-09-19 07:43:02,822 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/1150.h5
+2025-09-19 07:43:03,207 - INFO - File 1150: Filtered 385826 hits and 5 records
+2025-09-19 07:43:03,312 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/385.h5 in 3.88 seconds
+2025-09-19 07:43:03,383 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14641.h5
+2025-09-19 07:43:03,718 - INFO - File 14641: Filtered 820131 hits and 5 records
+2025-09-19 07:43:03,864 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/19091.h5 in 2.18 seconds
+2025-09-19 07:43:03,928 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16167.h5
+2025-09-19 07:43:04,004 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/12229.h5 in 3.93 seconds
+2025-09-19 07:43:04,077 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/11087.h5 in 3.71 seconds
+2025-09-19 07:43:04,104 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/12402.h5 in 2.85 seconds
+2025-09-19 07:43:04,147 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13355.h5
+2025-09-19 07:43:04,210 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/22113.h5
+2025-09-19 07:43:04,214 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7147.h5 in 4.07 seconds
+2025-09-19 07:43:04,313 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/763.h5 in 4.40 seconds
+2025-09-19 07:43:04,318 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5326.h5 in 2.54 seconds
+2025-09-19 07:43:04,318 - INFO - File 16167: Filtered 480460 hits and 4 records
+2025-09-19 07:43:04,389 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3146.h5
+2025-09-19 07:43:04,455 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/19020.h5
+2025-09-19 07:43:04,489 - INFO - File 13355: Filtered 740007 hits and 3 records
+2025-09-19 07:43:04,535 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14641.h5 in 1.15 seconds
+2025-09-19 07:43:04,569 - INFO - File 22113: Filtered 260784 hits and 4 records
+2025-09-19 07:43:04,656 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/21009.h5
+2025-09-19 07:43:04,702 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/236.h5 in 3.93 seconds
+2025-09-19 07:43:04,781 - INFO - File 3146: Filtered 433900 hits and 5 records
+2025-09-19 07:43:04,790 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/11522.h5 in 3.67 seconds
+2025-09-19 07:43:04,795 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20770.h5
+2025-09-19 07:43:04,886 - INFO - File 19020: Filtered 648824 hits and 5 records
+2025-09-19 07:43:04,888 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20398.h5
+2025-09-19 07:43:04,903 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14757.h5 in 4.34 seconds
+2025-09-19 07:43:04,999 - INFO - File 21009: Filtered 867879 hits and 6 records
+2025-09-19 07:43:05,019 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/12252.h5 in 4.02 seconds
+2025-09-19 07:43:05,062 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16344.h5 in 2.60 seconds
+2025-09-19 07:43:05,127 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10806.h5
+2025-09-19 07:43:05,130 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/22793.h5
+2025-09-19 07:43:05,162 - INFO - File 20770: Filtered 299688 hits and 3 records
+2025-09-19 07:43:05,239 - INFO - File 20398: Filtered 990689 hits and 6 records
+2025-09-19 07:43:05,353 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15232.h5
+2025-09-19 07:43:05,360 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/23197.h5
+2025-09-19 07:43:05,500 - INFO - File 10806: Filtered 353819 hits and 3 records
+2025-09-19 07:43:05,530 - INFO - File 22793: Filtered 834377 hits and 6 records
+2025-09-19 07:43:05,576 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/6928.h5 in 4.10 seconds
+2025-09-19 07:43:05,590 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7402.h5
+2025-09-19 07:43:05,662 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14836.h5
+2025-09-19 07:43:05,673 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3594.h5 in 3.43 seconds
+2025-09-19 07:43:05,784 - INFO - File 23197: Filtered 225178 hits and 1 records
+2025-09-19 07:43:05,792 - INFO - File 15232: Filtered 197599 hits and 2 records
+2025-09-19 07:43:05,896 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/1473.h5
+2025-09-19 07:43:06,004 - INFO - File 14836: Filtered 188755 hits and 2 records
+2025-09-19 07:43:06,013 - INFO - File 7402: Filtered 264297 hits and 4 records
+2025-09-19 07:43:06,332 - INFO - File 1473: Filtered 483324 hits and 3 records
+2025-09-19 07:43:06,613 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20398.h5 in 1.73 seconds
+2025-09-19 07:43:06,639 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/21009.h5 in 1.98 seconds
+2025-09-19 07:43:06,690 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/11990.h5
+2025-09-19 07:43:06,779 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13355.h5 in 2.63 seconds
+2025-09-19 07:43:06,905 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/22793.h5 in 1.77 seconds
+2025-09-19 07:43:06,942 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14474.h5
+2025-09-19 07:43:07,132 - INFO - File 11990: Filtered 372041 hits and 2 records
+2025-09-19 07:43:07,168 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3817.h5
+2025-09-19 07:43:07,183 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/19020.h5 in 2.73 seconds
+2025-09-19 07:43:07,250 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/1150.h5 in 4.43 seconds
+2025-09-19 07:43:07,281 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16519.h5
+2025-09-19 07:43:07,359 - INFO - File 14474: Filtered 761418 hits and 4 records
+2025-09-19 07:43:07,415 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13965.h5
+2025-09-19 07:43:07,575 - INFO - File 3817: Filtered 486334 hits and 4 records
+2025-09-19 07:43:07,671 - INFO - File 16519: Filtered 933836 hits and 7 records
+2025-09-19 07:43:07,689 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4772.h5
+2025-09-19 07:43:07,807 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16167.h5 in 3.88 seconds
+2025-09-19 07:43:07,871 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7761.h5
+2025-09-19 07:43:07,872 - INFO - File 13965: Filtered 756342 hits and 4 records
+2025-09-19 07:43:07,923 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/22113.h5 in 3.71 seconds
+2025-09-19 07:43:08,083 - INFO - File 4772: Filtered 457180 hits and 5 records
+2025-09-19 07:43:08,160 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14825.h5
+2025-09-19 07:43:08,164 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7402.h5 in 2.57 seconds
+2025-09-19 07:43:08,208 - INFO - File 7761: Filtered 627588 hits and 4 records
+2025-09-19 07:43:08,234 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3391.h5
+2025-09-19 07:43:08,541 - INFO - File 14825: Filtered 1235914 hits and 8 records
+2025-09-19 07:43:08,626 - INFO - File 3391: Filtered 202824 hits and 2 records
+2025-09-19 07:43:08,703 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20770.h5 in 3.91 seconds
+2025-09-19 07:43:08,769 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3146.h5 in 4.38 seconds
+2025-09-19 07:43:08,776 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8679.h5
+2025-09-19 07:43:08,851 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/432.h5
+2025-09-19 07:43:09,070 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10806.h5 in 3.94 seconds
+2025-09-19 07:43:09,145 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/1880.h5
+2025-09-19 07:43:09,165 - INFO - File 8679: Filtered 926097 hits and 5 records
+2025-09-19 07:43:09,167 - INFO - File 432: Filtered 184122 hits and 3 records
+2025-09-19 07:43:09,357 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15232.h5 in 4.00 seconds
+2025-09-19 07:43:09,472 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/23197.h5 in 4.11 seconds
+2025-09-19 07:43:09,500 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/6716.h5
+2025-09-19 07:43:09,517 - INFO - File 1880: Filtered 383242 hits and 3 records
+2025-09-19 07:43:09,542 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/1836.h5
+2025-09-19 07:43:09,649 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16519.h5 in 2.37 seconds
+2025-09-19 07:43:09,688 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/11990.h5 in 3.00 seconds
+2025-09-19 07:43:09,732 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3779.h5
+2025-09-19 07:43:09,869 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4428.h5
+2025-09-19 07:43:09,926 - INFO - File 6716: Filtered 492891 hits and 3 records
+2025-09-19 07:43:09,954 - INFO - File 1836: Filtered 802021 hits and 5 records
+2025-09-19 07:43:10,036 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14836.h5 in 4.37 seconds
+2025-09-19 07:43:10,117 - INFO - File 3779: Filtered 847147 hits and 8 records
+2025-09-19 07:43:10,122 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3117.h5
+2025-09-19 07:43:10,135 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/1473.h5 in 4.24 seconds
+2025-09-19 07:43:10,165 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7761.h5 in 2.29 seconds
+2025-09-19 07:43:10,297 - INFO - File 4428: Filtered 478540 hits and 4 records
+2025-09-19 07:43:10,353 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14825.h5 in 2.19 seconds
+2025-09-19 07:43:10,387 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/6237.h5
+2025-09-19 07:43:10,539 - INFO - File 3117: Filtered 59578 hits and 3 records
+2025-09-19 07:43:10,603 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/18905.h5
+2025-09-19 07:43:10,719 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14474.h5 in 3.78 seconds
+2025-09-19 07:43:10,787 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7257.h5
+2025-09-19 07:43:10,836 - INFO - File 6237: Filtered 435399 hits and 2 records
+2025-09-19 07:43:10,867 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8115.h5
+2025-09-19 07:43:10,997 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3817.h5 in 3.83 seconds
+2025-09-19 07:43:11,007 - INFO - File 18905: Filtered 508482 hits and 5 records
+2025-09-19 07:43:11,121 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/22014.h5
+2025-09-19 07:43:11,206 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13965.h5 in 3.79 seconds
+2025-09-19 07:43:11,291 - INFO - File 7257: Filtered 129157 hits and 3 records
+2025-09-19 07:43:11,300 - INFO - File 8115: Filtered 1192779 hits and 4 records
+2025-09-19 07:43:11,382 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4772.h5 in 3.69 seconds
+2025-09-19 07:43:11,449 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16088.h5
+2025-09-19 07:43:11,513 - INFO - File 22014: Filtered 448618 hits and 5 records
+2025-09-19 07:43:11,551 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8679.h5 in 2.78 seconds
+2025-09-19 07:43:11,623 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5917.h5
+2025-09-19 07:43:11,716 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/12866.h5
+2025-09-19 07:43:11,912 - INFO - File 16088: Filtered 447307 hits and 4 records
+2025-09-19 07:43:11,990 - INFO - File 5917: Filtered 209562 hits and 3 records
+2025-09-19 07:43:12,148 - INFO - File 12866: Filtered 361761 hits and 4 records
+2025-09-19 07:43:12,656 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8115.h5 in 1.79 seconds
+2025-09-19 07:43:12,727 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10355.h5
+2025-09-19 07:43:12,756 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/432.h5 in 3.90 seconds
+2025-09-19 07:43:12,826 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/1468.h5
+2025-09-19 07:43:13,147 - INFO - File 10355: Filtered 446531 hits and 2 records
+2025-09-19 07:43:13,274 - INFO - File 1468: Filtered 488451 hits and 5 records
+2025-09-19 07:43:13,295 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/1836.h5 in 3.75 seconds
+2025-09-19 07:43:13,373 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3779.h5 in 3.64 seconds
+2025-09-19 07:43:13,378 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10772.h5
+2025-09-19 07:43:13,441 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/6840.h5
+2025-09-19 07:43:13,447 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/6716.h5 in 3.95 seconds
+2025-09-19 07:43:13,584 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3391.h5 in 5.35 seconds
+2025-09-19 07:43:13,688 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4428.h5 in 3.82 seconds
+2025-09-19 07:43:13,705 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/18694.h5
+2025-09-19 07:43:13,707 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14035.h5
+2025-09-19 07:43:13,772 - INFO - File 6840: Filtered 1122969 hits and 7 records
+2025-09-19 07:43:13,783 - INFO - File 10772: Filtered 423900 hits and 4 records
+2025-09-19 07:43:13,877 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/1880.h5 in 4.73 seconds
+2025-09-19 07:43:13,975 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3070.h5
+2025-09-19 07:43:13,991 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/6788.h5
+2025-09-19 07:43:14,097 - INFO - File 14035: Filtered 599971 hits and 3 records
+2025-09-19 07:43:14,101 - INFO - File 18694: Filtered 551812 hits and 7 records
+2025-09-19 07:43:14,126 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/18905.h5 in 3.52 seconds
+2025-09-19 07:43:14,210 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/1701.h5
+2025-09-19 07:43:14,432 - INFO - File 6788: Filtered 793188 hits and 5 records
+2025-09-19 07:43:14,443 - INFO - File 3070: Filtered 391874 hits and 4 records
+2025-09-19 07:43:14,567 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/6237.h5 in 4.18 seconds
+2025-09-19 07:43:14,628 - INFO - File 1701: Filtered 997605 hits and 7 records
+2025-09-19 07:43:14,687 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10607.h5
+2025-09-19 07:43:15,079 - INFO - File 10607: Filtered 571544 hits and 5 records
+2025-09-19 07:43:15,486 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/6840.h5 in 2.04 seconds
+2025-09-19 07:43:15,497 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/22014.h5 in 4.38 seconds
+2025-09-19 07:43:15,564 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16980.h5
+2025-09-19 07:43:15,564 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/22853.h5
+2025-09-19 07:43:15,786 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16088.h5 in 4.34 seconds
+2025-09-19 07:43:15,862 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5917.h5 in 4.24 seconds
+2025-09-19 07:43:15,871 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/12866.h5 in 4.16 seconds
+2025-09-19 07:43:15,878 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/1044.h5
+2025-09-19 07:43:15,955 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8218.h5
+2025-09-19 07:43:15,976 - INFO - File 22853: Filtered 942384 hits and 7 records
+2025-09-19 07:43:16,005 - INFO - File 16980: Filtered 418507 hits and 5 records
+2025-09-19 07:43:16,177 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5302.h5
+2025-09-19 07:43:16,342 - INFO - File 1044: Filtered 432579 hits and 4 records
+2025-09-19 07:43:16,351 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/1701.h5 in 2.14 seconds
+2025-09-19 07:43:16,383 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3117.h5 in 6.26 seconds
+2025-09-19 07:43:16,392 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14035.h5 in 2.69 seconds
+2025-09-19 07:43:16,398 - INFO - File 8218: Filtered 280615 hits and 4 records
+2025-09-19 07:43:16,428 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13104.h5
+2025-09-19 07:43:16,654 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2346.h5
+2025-09-19 07:43:16,676 - INFO - File 5302: Filtered 366527 hits and 3 records
+2025-09-19 07:43:16,893 - INFO - File 13104: Filtered 980387 hits and 6 records
+2025-09-19 07:43:16,901 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13676.h5
+2025-09-19 07:43:17,188 - INFO - File 2346: Filtered 227195 hits and 2 records
+2025-09-19 07:43:17,397 - INFO - File 13676: Filtered 1054579 hits and 6 records
+2025-09-19 07:43:17,617 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/18694.h5 in 3.91 seconds
+2025-09-19 07:43:17,649 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10772.h5 in 4.27 seconds
+2025-09-19 07:43:17,693 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/17566.h5
+2025-09-19 07:43:17,803 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10355.h5 in 5.08 seconds
+2025-09-19 07:43:17,880 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20399.h5
+2025-09-19 07:43:17,944 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9286.h5
+2025-09-19 07:43:18,059 - INFO - File 17566: Filtered 787638 hits and 8 records
+2025-09-19 07:43:18,136 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/6788.h5 in 4.14 seconds
+2025-09-19 07:43:18,208 - INFO - File 20399: Filtered 627097 hits and 7 records
+2025-09-19 07:43:18,253 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/409.h5
+2025-09-19 07:43:18,330 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/1468.h5 in 5.50 seconds
+2025-09-19 07:43:18,445 - INFO - File 9286: Filtered 1126087 hits and 6 records
+2025-09-19 07:43:18,458 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/17499.h5
+2025-09-19 07:43:18,521 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10607.h5 in 3.83 seconds
+2025-09-19 07:43:18,589 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7190.h5
+2025-09-19 07:43:18,759 - INFO - File 409: Filtered 530606 hits and 5 records
+2025-09-19 07:43:19,002 - INFO - File 7190: Filtered 866801 hits and 6 records
+2025-09-19 07:43:19,092 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7257.h5 in 8.30 seconds
+2025-09-19 07:43:19,155 - INFO - File 17499: Filtered 681181 hits and 6 records
+2025-09-19 07:43:19,173 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14586.h5
+2025-09-19 07:43:19,364 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/22853.h5 in 3.80 seconds
+2025-09-19 07:43:19,410 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3070.h5 in 5.43 seconds
+2025-09-19 07:43:19,459 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15984.h5
+2025-09-19 07:43:19,716 - INFO - File 14586: Filtered 553132 hits and 3 records
+2025-09-19 07:43:19,719 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/19657.h5
+2025-09-19 07:43:19,779 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/1044.h5 in 3.90 seconds
+2025-09-19 07:43:19,817 - INFO - File 15984: Filtered 637051 hits and 8 records
+2025-09-19 07:43:19,821 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7948.h5
+2025-09-19 07:43:19,922 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16980.h5 in 4.36 seconds
+2025-09-19 07:43:20,144 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/11834.h5
+2025-09-19 07:43:20,181 - INFO - File 19657: Filtered 890455 hits and 6 records
+2025-09-19 07:43:20,238 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8218.h5 in 4.28 seconds
+2025-09-19 07:43:20,255 - INFO - File 7948: Filtered 717197 hits and 7 records
+2025-09-19 07:43:20,280 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/12178.h5
+2025-09-19 07:43:20,321 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13104.h5 in 3.89 seconds
+2025-09-19 07:43:20,426 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9286.h5 in 2.48 seconds
+2025-09-19 07:43:20,520 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/328.h5
+2025-09-19 07:43:20,569 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9646.h5
+2025-09-19 07:43:20,615 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2346.h5 in 3.96 seconds
+2025-09-19 07:43:20,633 - INFO - File 11834: Filtered 446894 hits and 3 records
+2025-09-19 07:43:20,678 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/17566.h5 in 2.99 seconds
+2025-09-19 07:43:20,732 - INFO - File 12178: Filtered 962787 hits and 2 records
+2025-09-19 07:43:20,786 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7301.h5
+2025-09-19 07:43:20,841 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13676.h5 in 3.94 seconds
+2025-09-19 07:43:20,880 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/19652.h5
+2025-09-19 07:43:20,981 - INFO - File 328: Filtered 317633 hits and 4 records
+2025-09-19 07:43:21,018 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16657.h5
+2025-09-19 07:43:21,083 - INFO - File 9646: Filtered 577417 hits and 6 records
+2025-09-19 07:43:21,143 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/409.h5 in 2.89 seconds
+2025-09-19 07:43:21,230 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7962.h5
+2025-09-19 07:43:21,272 - INFO - File 7301: Filtered 848803 hits and 5 records
+2025-09-19 07:43:21,391 - INFO - File 19652: Filtered 388593 hits and 3 records
+2025-09-19 07:43:21,433 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/17499.h5 in 2.98 seconds
+2025-09-19 07:43:21,515 - INFO - File 16657: Filtered 971186 hits and 4 records
+2025-09-19 07:43:21,551 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20399.h5 in 3.67 seconds
+2025-09-19 07:43:21,555 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/22238.h5
+2025-09-19 07:43:21,625 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16133.h5
+2025-09-19 07:43:21,696 - INFO - File 7962: Filtered 827443 hits and 3 records
+2025-09-19 07:43:21,905 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15984.h5 in 2.45 seconds
+2025-09-19 07:43:21,937 - INFO - File 22238: Filtered 514017 hits and 4 records
+2025-09-19 07:43:22,021 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3528.h5
+2025-09-19 07:43:22,072 - INFO - File 16133: Filtered 668075 hits and 4 records
+2025-09-19 07:43:22,375 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5302.h5 in 6.20 seconds
+2025-09-19 07:43:22,450 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5740.h5
+2025-09-19 07:43:22,528 - INFO - File 3528: Filtered 374284 hits and 3 records
+2025-09-19 07:43:22,743 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7190.h5 in 4.15 seconds
+2025-09-19 07:43:22,818 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/17871.h5
+2025-09-19 07:43:22,889 - INFO - File 5740: Filtered 1148234 hits and 4 records
+2025-09-19 07:43:23,280 - INFO - File 17871: Filtered 759658 hits and 4 records
+2025-09-19 07:43:23,536 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14586.h5 in 4.36 seconds
+2025-09-19 07:43:23,606 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/1109.h5
+2025-09-19 07:43:23,919 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7948.h5 in 4.10 seconds
+2025-09-19 07:43:23,947 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/19657.h5 in 4.23 seconds
+2025-09-19 07:43:24,005 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7925.h5
+2025-09-19 07:43:24,014 - INFO - File 1109: Filtered 654860 hits and 6 records
+2025-09-19 07:43:24,014 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/18534.h5
+2025-09-19 07:43:24,433 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/12178.h5 in 4.15 seconds
+2025-09-19 07:43:24,506 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7501.h5
+2025-09-19 07:43:24,517 - INFO - File 7925: Filtered 513404 hits and 4 records
+2025-09-19 07:43:24,539 - INFO - File 18534: Filtered 264731 hits and 4 records
+2025-09-19 07:43:24,786 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7301.h5 in 4.00 seconds
+2025-09-19 07:43:24,883 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/11834.h5 in 4.74 seconds
+2025-09-19 07:43:24,895 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/18679.h5
+2025-09-19 07:43:24,952 - INFO - File 7501: Filtered 512371 hits and 4 records
+2025-09-19 07:43:24,955 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13836.h5
+2025-09-19 07:43:25,004 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5740.h5 in 2.55 seconds
+2025-09-19 07:43:25,058 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16657.h5 in 4.04 seconds
+2025-09-19 07:43:25,074 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9646.h5 in 4.50 seconds
+2025-09-19 07:43:25,216 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16747.h5
+2025-09-19 07:43:25,228 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10734.h5
+2025-09-19 07:43:25,328 - INFO - File 18679: Filtered 791846 hits and 5 records
+2025-09-19 07:43:25,380 - INFO - File 13836: Filtered 576286 hits and 3 records
+2025-09-19 07:43:25,401 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7962.h5 in 4.17 seconds
+2025-09-19 07:43:25,462 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13811.h5
+2025-09-19 07:43:25,536 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/22399.h5
+2025-09-19 07:43:25,657 - INFO - File 16747: Filtered 171458 hits and 4 records
+2025-09-19 07:43:25,808 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/328.h5 in 5.29 seconds
+2025-09-19 07:43:25,926 - INFO - File 10734: Filtered 183542 hits and 2 records
+2025-09-19 07:43:25,933 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/12296.h5
+2025-09-19 07:43:25,965 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/22238.h5 in 4.41 seconds
+2025-09-19 07:43:25,989 - INFO - File 13811: Filtered 747463 hits and 5 records
+2025-09-19 07:43:25,997 - INFO - File 22399: Filtered 289984 hits and 2 records
+2025-09-19 07:43:26,105 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16133.h5 in 4.48 seconds
+2025-09-19 07:43:26,182 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/22673.h5
+2025-09-19 07:43:26,324 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3909.h5
+2025-09-19 07:43:26,378 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/19652.h5 in 5.50 seconds
+2025-09-19 07:43:26,408 - INFO - File 12296: Filtered 422516 hits and 6 records
+2025-09-19 07:43:26,511 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8700.h5
+2025-09-19 07:43:26,593 - INFO - File 22673: Filtered 651193 hits and 5 records
+2025-09-19 07:43:26,789 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/17871.h5 in 3.97 seconds
+2025-09-19 07:43:26,827 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13671.h5
+2025-09-19 07:43:26,844 - INFO - File 3909: Filtered 1378483 hits and 5 records
+2025-09-19 07:43:27,071 - INFO - File 8700: Filtered 688749 hits and 4 records
+2025-09-19 07:43:27,332 - INFO - File 13671: Filtered 1280159 hits and 7 records
+2025-09-19 07:43:27,939 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3528.h5 in 5.92 seconds
+2025-09-19 07:43:27,959 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/1109.h5 in 4.35 seconds
+2025-09-19 07:43:27,977 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9548.h5
+2025-09-19 07:43:28,007 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5710.h5
+2025-09-19 07:43:28,241 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3909.h5 in 1.92 seconds
+2025-09-19 07:43:28,310 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/18134.h5
+2025-09-19 07:43:28,513 - INFO - File 9548: Filtered 1674119 hits and 5 records
+2025-09-19 07:43:28,579 - INFO - File 5710: Filtered 742179 hits and 6 records
+2025-09-19 07:43:28,685 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7501.h5 in 4.18 seconds
+2025-09-19 07:43:28,690 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7925.h5 in 4.69 seconds
+2025-09-19 07:43:28,745 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/18949.h5
+2025-09-19 07:43:28,748 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/18534.h5 in 4.73 seconds
+2025-09-19 07:43:28,762 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/18679.h5 in 3.87 seconds
+2025-09-19 07:43:28,806 - INFO - File 18134: Filtered 913144 hits and 3 records
+2025-09-19 07:43:28,810 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10510.h5
+2025-09-19 07:43:28,991 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7472.h5
+2025-09-19 07:43:29,003 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13836.h5 in 4.05 seconds
+2025-09-19 07:43:29,071 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10957.h5
+2025-09-19 07:43:29,223 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13279.h5
+2025-09-19 07:43:29,253 - INFO - File 18949: Filtered 404374 hits and 2 records
+2025-09-19 07:43:29,311 - INFO - File 10510: Filtered 1438169 hits and 5 records
+2025-09-19 07:43:29,527 - INFO - File 7472: Filtered 942969 hits and 6 records
+2025-09-19 07:43:29,527 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13811.h5 in 4.07 seconds
+2025-09-19 07:43:29,573 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8875.h5
+2025-09-19 07:43:29,579 - INFO - File 10957: Filtered 879491 hits and 3 records
+2025-09-19 07:43:29,873 - INFO - File 13279: Filtered 1296903 hits and 9 records
+2025-09-19 07:43:30,092 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/22673.h5 in 3.91 seconds
+2025-09-19 07:43:30,133 - INFO - File 8875: Filtered 398747 hits and 3 records
+2025-09-19 07:43:30,171 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/12335.h5
+2025-09-19 07:43:30,655 - INFO - File 12335: Filtered 1202762 hits and 4 records
+2025-09-19 07:43:30,742 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9548.h5 in 2.76 seconds
+2025-09-19 07:43:30,810 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/19779.h5
+2025-09-19 07:43:30,817 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13671.h5 in 3.99 seconds
+2025-09-19 07:43:31,052 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9357.h5
+2025-09-19 07:43:31,210 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/12296.h5 in 5.28 seconds
+2025-09-19 07:43:31,251 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20728.h5
+2025-09-19 07:43:31,281 - INFO - File 19779: Filtered 1477718 hits and 9 records
+2025-09-19 07:43:31,411 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10510.h5 in 2.60 seconds
+2025-09-19 07:43:31,474 - INFO - File 9357: Filtered 1269211 hits and 5 records
+2025-09-19 07:43:31,587 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/22809.h5
+2025-09-19 07:43:31,773 - INFO - File 20728: Filtered 1037604 hits and 5 records
+2025-09-19 07:43:31,950 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8700.h5 in 5.44 seconds
+2025-09-19 07:43:31,991 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16747.h5 in 6.77 seconds
+2025-09-19 07:43:32,001 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/373.h5
+2025-09-19 07:43:32,031 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20550.h5
+2025-09-19 07:43:32,151 - INFO - File 22809: Filtered 324092 hits and 2 records
+2025-09-19 07:43:32,306 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/22399.h5 in 6.77 seconds
+2025-09-19 07:43:32,375 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5013.h5
+2025-09-19 07:43:32,495 - INFO - File 20550: Filtered 1444283 hits and 10 records
+2025-09-19 07:43:32,534 - INFO - File 373: Filtered 796864 hits and 4 records
+2025-09-19 07:43:32,712 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/18134.h5 in 4.40 seconds
+2025-09-19 07:43:32,754 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/11247.h5
+2025-09-19 07:43:32,968 - INFO - File 5013: Filtered 532173 hits and 5 records
+2025-09-19 07:43:33,038 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/12335.h5 in 2.87 seconds
+2025-09-19 07:43:33,085 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/12217.h5
+2025-09-19 07:43:33,094 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7472.h5 in 4.10 seconds
+2025-09-19 07:43:33,212 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10957.h5 in 4.14 seconds
+2025-09-19 07:43:33,237 - INFO - File 11247: Filtered 879629 hits and 6 records
+2025-09-19 07:43:33,294 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/455.h5
+2025-09-19 07:43:33,296 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13279.h5 in 4.07 seconds
+2025-09-19 07:43:33,359 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/6308.h5
+2025-09-19 07:43:33,423 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/19779.h5 in 2.61 seconds
+2025-09-19 07:43:33,491 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8875.h5 in 3.92 seconds
+2025-09-19 07:43:33,514 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9357.h5 in 2.46 seconds
+2025-09-19 07:43:33,572 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/17322.h5
+2025-09-19 07:43:33,649 - INFO - File 12217: Filtered 570590 hits and 5 records
+2025-09-19 07:43:33,761 - INFO - File 455: Filtered 787232 hits and 6 records
+2025-09-19 07:43:33,836 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/977.h5
+2025-09-19 07:43:33,884 - INFO - File 6308: Filtered 762860 hits and 3 records
+2025-09-19 07:43:34,093 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20075.h5
+2025-09-19 07:43:34,144 - INFO - File 17322: Filtered 1598490 hits and 5 records
+2025-09-19 07:43:34,146 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10734.h5 in 8.92 seconds
+2025-09-19 07:43:34,168 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5710.h5 in 6.16 seconds
+2025-09-19 07:43:34,218 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9669.h5
+2025-09-19 07:43:34,355 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7665.h5
+2025-09-19 07:43:34,414 - INFO - File 977: Filtered 827668 hits and 6 records
+2025-09-19 07:43:34,455 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/23189.h5
+2025-09-19 07:43:34,555 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20550.h5 in 2.52 seconds
+2025-09-19 07:43:34,649 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2039.h5
+2025-09-19 07:43:34,717 - INFO - File 20075: Filtered 219005 hits and 3 records
+2025-09-19 07:43:34,729 - INFO - File 9669: Filtered 621418 hits and 4 records
+2025-09-19 07:43:34,990 - INFO - File 7665: Filtered 135547 hits and 1 records
+2025-09-19 07:43:35,024 - INFO - File 23189: Filtered 1817085 hits and 8 records
+2025-09-19 07:43:35,188 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20728.h5 in 3.94 seconds
+2025-09-19 07:43:35,256 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5805.h5
+2025-09-19 07:43:35,283 - INFO - File 2039: Filtered 1063124 hits and 8 records
+2025-09-19 07:43:35,707 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/18949.h5 in 6.96 seconds
+2025-09-19 07:43:35,773 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20414.h5
+2025-09-19 07:43:35,841 - INFO - File 5805: Filtered 598231 hits and 4 records
+2025-09-19 07:43:36,278 - INFO - File 20414: Filtered 943843 hits and 3 records
+2025-09-19 07:43:36,289 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/373.h5 in 4.29 seconds
+2025-09-19 07:43:36,354 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15236.h5
+2025-09-19 07:43:36,695 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/23189.h5 in 2.24 seconds
+2025-09-19 07:43:36,774 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/22955.h5
+2025-09-19 07:43:36,788 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/11247.h5 in 4.03 seconds
+2025-09-19 07:43:36,875 - INFO - File 15236: Filtered 986434 hits and 3 records
+2025-09-19 07:43:37,074 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15689.h5
+2025-09-19 07:43:37,313 - INFO - File 22955: Filtered 681070 hits and 3 records
+2025-09-19 07:43:37,458 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/455.h5 in 4.16 seconds
+2025-09-19 07:43:37,478 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/17322.h5 in 3.91 seconds
+2025-09-19 07:43:37,543 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9606.h5
+2025-09-19 07:43:37,552 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/12217.h5 in 4.47 seconds
+2025-09-19 07:43:37,575 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3883.h5
+2025-09-19 07:43:37,732 - INFO - File 15689: Filtered 628400 hits and 4 records
+2025-09-19 07:43:37,812 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7721.h5
+2025-09-19 07:43:38,076 - INFO - File 9606: Filtered 1180729 hits and 5 records
+2025-09-19 07:43:38,119 - INFO - File 3883: Filtered 677436 hits and 8 records
+2025-09-19 07:43:38,464 - INFO - File 7721: Filtered 540567 hits and 5 records
+2025-09-19 07:43:38,615 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/22809.h5 in 7.03 seconds
+2025-09-19 07:43:38,685 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7488.h5
+2025-09-19 07:43:38,890 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/6308.h5 in 5.53 seconds
+2025-09-19 07:43:38,934 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20761.h5
+2025-09-19 07:43:39,041 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5013.h5 in 6.67 seconds
+2025-09-19 07:43:39,122 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/6190.h5
+2025-09-19 07:43:39,327 - INFO - File 7488: Filtered 671791 hits and 6 records
+2025-09-19 07:43:39,509 - INFO - File 20761: Filtered 1082057 hits and 5 records
+2025-09-19 07:43:39,671 - INFO - File 6190: Filtered 1567214 hits and 7 records
+2025-09-19 07:43:39,771 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20414.h5 in 4.00 seconds
+2025-09-19 07:43:39,835 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8176.h5
+2025-09-19 07:43:40,050 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/977.h5 in 6.21 seconds
+2025-09-19 07:43:40,148 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9249.h5
+2025-09-19 07:43:40,194 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2039.h5 in 5.54 seconds
+2025-09-19 07:43:40,477 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9617.h5
+2025-09-19 07:43:40,564 - INFO - File 8176: Filtered 207284 hits and 4 records
+2025-09-19 07:43:40,767 - INFO - File 9249: Filtered 440897 hits and 3 records
+2025-09-19 07:43:40,796 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9669.h5 in 6.58 seconds
+2025-09-19 07:43:40,830 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15236.h5 in 4.48 seconds
+2025-09-19 07:43:40,845 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/11692.h5
+2025-09-19 07:43:41,125 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/6364.h5
+2025-09-19 07:43:41,168 - INFO - File 9617: Filtered 1348428 hits and 9 records
+2025-09-19 07:43:41,316 - INFO - File 11692: Filtered 1391024 hits and 6 records
+2025-09-19 07:43:41,401 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20075.h5 in 7.31 seconds
+2025-09-19 07:43:41,466 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2858.h5
+2025-09-19 07:43:41,713 - INFO - File 6364: Filtered 1039007 hits and 5 records
+2025-09-19 07:43:41,806 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9606.h5 in 4.26 seconds
+2025-09-19 07:43:41,883 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7007.h5
+2025-09-19 07:43:41,979 - INFO - File 2858: Filtered 316775 hits and 2 records
+2025-09-19 07:43:42,046 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5805.h5 in 6.79 seconds
+2025-09-19 07:43:42,211 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7951.h5
+2025-09-19 07:43:42,568 - INFO - File 7007: Filtered 470451 hits and 3 records
+2025-09-19 07:43:42,851 - INFO - File 7951: Filtered 650563 hits and 5 records
+2025-09-19 07:43:43,007 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7665.h5 in 8.65 seconds
+2025-09-19 07:43:43,013 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/22955.h5 in 6.24 seconds
+2025-09-19 07:43:43,086 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15309.h5
+2025-09-19 07:43:43,105 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5832.h5
+2025-09-19 07:43:43,338 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20761.h5 in 4.40 seconds
+2025-09-19 07:43:43,339 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/6190.h5 in 4.22 seconds
+2025-09-19 07:43:43,401 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2286.h5
+2025-09-19 07:43:43,405 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9180.h5
+2025-09-19 07:43:43,636 - INFO - File 15309: Filtered 567157 hits and 4 records
+2025-09-19 07:43:43,699 - INFO - File 5832: Filtered 1617460 hits and 7 records
+2025-09-19 07:43:43,817 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7721.h5 in 6.00 seconds
+2025-09-19 07:43:43,898 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2714.h5
+2025-09-19 07:43:43,934 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15689.h5 in 6.86 seconds
+2025-09-19 07:43:44,004 - INFO - File 9180: Filtered 992703 hits and 7 records
+2025-09-19 07:43:44,016 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/11392.h5
+2025-09-19 07:43:44,064 - INFO - File 2286: Filtered 459357 hits and 3 records
+2025-09-19 07:43:44,209 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3883.h5 in 6.63 seconds
+2025-09-19 07:43:44,281 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15568.h5
+2025-09-19 07:43:44,562 - INFO - File 11392: Filtered 635965 hits and 3 records
+2025-09-19 07:43:44,577 - INFO - File 2714: Filtered 694897 hits and 2 records
+2025-09-19 07:43:44,841 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7488.h5 in 6.16 seconds
+2025-09-19 07:43:44,911 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/19364.h5
+2025-09-19 07:43:44,936 - INFO - File 15568: Filtered 596609 hits and 3 records
+2025-09-19 07:43:45,023 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/11692.h5 in 4.18 seconds
+2025-09-19 07:43:45,189 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16487.h5
+2025-09-19 07:43:45,500 - INFO - File 19364: Filtered 761662 hits and 5 records
+2025-09-19 07:43:45,851 - INFO - File 16487: Filtered 32483 hits and 1 records
+2025-09-19 07:43:45,987 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9617.h5 in 5.51 seconds
+2025-09-19 07:43:46,056 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3091.h5
+2025-09-19 07:43:46,620 - INFO - File 3091: Filtered 748303 hits and 5 records
+2025-09-19 07:43:46,848 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/6364.h5 in 5.72 seconds
+2025-09-19 07:43:46,914 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2246.h5
+2025-09-19 07:43:47,385 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5832.h5 in 4.28 seconds
+2025-09-19 07:43:47,425 - INFO - File 2246: Filtered 1756401 hits and 5 records
+2025-09-19 07:43:47,451 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/21297.h5
+2025-09-19 07:43:48,023 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7951.h5 in 5.81 seconds
+2025-09-19 07:43:48,031 - INFO - File 21297: Filtered 945001 hits and 5 records
+2025-09-19 07:43:48,093 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16509.h5
+2025-09-19 07:43:48,560 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9249.h5 in 8.41 seconds
+2025-09-19 07:43:48,627 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10474.h5
+2025-09-19 07:43:48,633 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2858.h5 in 7.17 seconds
+2025-09-19 07:43:48,784 - INFO - File 16509: Filtered 1171175 hits and 5 records
+2025-09-19 07:43:48,894 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7156.h5
+2025-09-19 07:43:49,236 - INFO - File 10474: Filtered 579489 hits and 5 records
+2025-09-19 07:43:49,337 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2246.h5 in 2.42 seconds
+2025-09-19 07:43:49,404 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16925.h5
+2025-09-19 07:43:49,556 - INFO - File 7156: Filtered 1298026 hits and 7 records
+2025-09-19 07:43:49,967 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9180.h5 in 6.56 seconds
+2025-09-19 07:43:50,053 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16475.h5
+2025-09-19 07:43:50,056 - INFO - File 16925: Filtered 2139224 hits and 6 records
+2025-09-19 07:43:50,728 - INFO - File 16475: Filtered 436068 hits and 4 records
+2025-09-19 07:43:50,890 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2714.h5 in 6.99 seconds
+2025-09-19 07:43:50,955 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/11392.h5 in 6.94 seconds
+2025-09-19 07:43:50,957 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4216.h5
+2025-09-19 07:43:51,037 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/21379.h5
+2025-09-19 07:43:51,245 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15309.h5 in 8.16 seconds
+2025-09-19 07:43:51,343 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2928.h5
+2025-09-19 07:43:51,588 - INFO - File 4216: Filtered 458361 hits and 4 records
+2025-09-19 07:43:51,680 - INFO - File 21379: Filtered 169559 hits and 3 records
+2025-09-19 07:43:51,984 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/19364.h5 in 7.07 seconds
+2025-09-19 07:43:52,016 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7007.h5 in 10.13 seconds
+2025-09-19 07:43:52,031 - INFO - File 2928: Filtered 2550002 hits and 7 records
+2025-09-19 07:43:52,089 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10637.h5
+2025-09-19 07:43:52,132 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8176.h5 in 12.30 seconds
+2025-09-19 07:43:52,203 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/11037.h5
+2025-09-19 07:43:52,249 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2286.h5 in 8.85 seconds
+2025-09-19 07:43:52,334 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/19131.h5
+2025-09-19 07:43:52,476 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/118.h5
+2025-09-19 07:43:52,739 - INFO - File 10637: Filtered 1073931 hits and 3 records
+2025-09-19 07:43:52,768 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3091.h5 in 6.71 seconds
+2025-09-19 07:43:52,852 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20729.h5
+2025-09-19 07:43:52,853 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15568.h5 in 8.57 seconds
+2025-09-19 07:43:52,854 - INFO - File 11037: Filtered 277330 hits and 3 records
+2025-09-19 07:43:53,076 - INFO - File 19131: Filtered 1346499 hits and 4 records
+2025-09-19 07:43:53,144 - INFO - File 118: Filtered 1224834 hits and 7 records
+2025-09-19 07:43:53,201 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/18956.h5
+2025-09-19 07:43:53,560 - INFO - File 20729: Filtered 1304045 hits and 3 records
+2025-09-19 07:43:53,681 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2928.h5 in 2.34 seconds
+2025-09-19 07:43:53,749 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14646.h5
+2025-09-19 07:43:53,758 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16925.h5 in 4.35 seconds
+2025-09-19 07:43:53,944 - INFO - File 18956: Filtered 791256 hits and 5 records
+2025-09-19 07:43:54,029 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16487.h5 in 8.84 seconds
+2025-09-19 07:43:54,052 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3680.h5
+2025-09-19 07:43:54,239 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/11876.h5
+2025-09-19 07:43:54,357 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/21297.h5 in 6.91 seconds
+2025-09-19 07:43:54,427 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/22758.h5
+2025-09-19 07:43:54,822 - INFO - File 3680: Filtered 1559438 hits and 6 records
+2025-09-19 07:43:55,000 - INFO - File 11876: Filtered 723754 hits and 4 records
+2025-09-19 07:43:55,031 - INFO - File 14646: Filtered 310296 hits and 4 records
+2025-09-19 07:43:55,036 - INFO - File 22758: Filtered 1176860 hits and 6 records
+2025-09-19 07:43:55,230 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16509.h5 in 7.14 seconds
+2025-09-19 07:43:55,254 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7156.h5 in 6.36 seconds
+2025-09-19 07:43:55,315 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3321.h5
+2025-09-19 07:43:55,329 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4754.h5
+2025-09-19 07:43:55,969 - INFO - File 4754: Filtered 207380 hits and 1 records
+2025-09-19 07:43:56,038 - INFO - File 3321: Filtered 1122093 hits and 4 records
+2025-09-19 07:43:57,028 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10474.h5 in 8.40 seconds
+2025-09-19 07:43:57,101 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5257.h5
+2025-09-19 07:43:57,689 - INFO - File 5257: Filtered 1391513 hits and 5 records
+2025-09-19 07:43:58,039 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/118.h5 in 5.56 seconds
+2025-09-19 07:43:58,102 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5509.h5
+2025-09-19 07:43:58,250 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/19131.h5 in 5.92 seconds
+2025-09-19 07:43:58,318 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5031.h5
+2025-09-19 07:43:58,431 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20729.h5 in 5.58 seconds
+2025-09-19 07:43:58,501 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16705.h5
+2025-09-19 07:43:58,740 - INFO - File 5509: Filtered 1583488 hits and 8 records
+2025-09-19 07:43:58,822 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16475.h5 in 8.77 seconds
+2025-09-19 07:43:58,918 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7034.h5
+2025-09-19 07:43:58,996 - INFO - File 5031: Filtered 2295356 hits and 6 records
+2025-09-19 07:43:59,181 - INFO - File 16705: Filtered 775304 hits and 5 records
+2025-09-19 07:43:59,250 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10637.h5 in 7.16 seconds
+2025-09-19 07:43:59,289 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/19954.h5
+2025-09-19 07:43:59,654 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3680.h5 in 5.60 seconds
+2025-09-19 07:43:59,741 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/1533.h5
+2025-09-19 07:43:59,771 - INFO - File 7034: Filtered 227345 hits and 3 records
+2025-09-19 07:44:00,004 - INFO - File 19954: Filtered 2327231 hits and 8 records
+2025-09-19 07:44:00,392 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4216.h5 in 9.44 seconds
+2025-09-19 07:44:00,459 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/671.h5
+2025-09-19 07:44:00,468 - INFO - File 1533: Filtered 466822 hits and 3 records
+2025-09-19 07:44:01,136 - INFO - File 671: Filtered 1588837 hits and 9 records
+2025-09-19 07:44:01,150 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/22758.h5 in 6.72 seconds
+2025-09-19 07:44:01,230 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/22937.h5
+2025-09-19 07:44:01,258 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/11037.h5 in 9.06 seconds
+2025-09-19 07:44:01,304 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3321.h5 in 5.99 seconds
+2025-09-19 07:44:01,376 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15738.h5
+2025-09-19 07:44:01,450 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5257.h5 in 4.35 seconds
+2025-09-19 07:44:01,510 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8194.h5
+2025-09-19 07:44:01,741 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2583.h5
+2025-09-19 07:44:01,809 - INFO - File 22937: Filtered 1780585 hits and 6 records
+2025-09-19 07:44:01,812 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/21379.h5 in 10.78 seconds
+2025-09-19 07:44:01,912 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20877.h5
+2025-09-19 07:44:01,951 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/18956.h5 in 8.75 seconds
+2025-09-19 07:44:02,024 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/11983.h5
+2025-09-19 07:44:02,031 - INFO - File 15738: Filtered 1240293 hits and 3 records
+2025-09-19 07:44:02,276 - INFO - File 8194: Filtered 1319149 hits and 5 records
+2025-09-19 07:44:02,353 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5031.h5 in 4.03 seconds
+2025-09-19 07:44:02,457 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/21056.h5
+2025-09-19 07:44:02,534 - INFO - File 2583: Filtered 1541098 hits and 4 records
+2025-09-19 07:44:02,573 - INFO - File 20877: Filtered 1862819 hits and 5 records
+2025-09-19 07:44:02,840 - INFO - File 11983: Filtered 1214227 hits and 3 records
+2025-09-19 07:44:02,918 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/11876.h5 in 8.68 seconds
+2025-09-19 07:44:03,012 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16556.h5
+2025-09-19 07:44:03,140 - INFO - File 21056: Filtered 984508 hits and 6 records
+2025-09-19 07:44:03,280 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/19954.h5 in 3.99 seconds
+2025-09-19 07:44:03,353 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10381.h5
+2025-09-19 07:44:03,741 - INFO - File 16556: Filtered 1111679 hits and 6 records
+2025-09-19 07:44:03,756 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5509.h5 in 5.65 seconds
+2025-09-19 07:44:03,823 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/17571.h5
+2025-09-19 07:44:04,100 - INFO - File 10381: Filtered 1700160 hits and 2 records
+2025-09-19 07:44:04,528 - INFO - File 17571: Filtered 1624002 hits and 3 records
+2025-09-19 07:44:04,739 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/671.h5 in 4.28 seconds
+2025-09-19 07:44:04,809 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/1510.h5
+2025-09-19 07:44:05,456 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/22937.h5 in 4.23 seconds
+2025-09-19 07:44:05,504 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8164.h5
+2025-09-19 07:44:05,562 - INFO - File 1510: Filtered 1261317 hits and 6 records
+2025-09-19 07:44:05,686 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4754.h5 in 10.36 seconds
+2025-09-19 07:44:05,796 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2914.h5
+2025-09-19 07:44:05,996 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20877.h5 in 4.08 seconds
+2025-09-19 07:44:06,063 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2815.h5
+2025-09-19 07:44:06,252 - INFO - File 8164: Filtered 2415766 hits and 4 records
+2025-09-19 07:44:06,511 - INFO - File 2914: Filtered 864437 hits and 4 records
+2025-09-19 07:44:06,731 - INFO - File 2815: Filtered 1540350 hits and 6 records
+2025-09-19 07:44:07,222 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16705.h5 in 8.72 seconds
+2025-09-19 07:44:07,290 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2948.h5
+2025-09-19 07:44:07,539 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8194.h5 in 6.03 seconds
+2025-09-19 07:44:07,576 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5520.h5
+2025-09-19 07:44:07,991 - INFO - File 2948: Filtered 1532772 hits and 7 records
+2025-09-19 07:44:08,317 - INFO - File 5520: Filtered 428692 hits and 4 records
+2025-09-19 07:44:08,583 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8164.h5 in 3.08 seconds
+2025-09-19 07:44:08,604 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/17571.h5 in 4.78 seconds
+2025-09-19 07:44:08,656 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8181.h5
+2025-09-19 07:44:08,685 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15738.h5 in 7.31 seconds
+2025-09-19 07:44:08,757 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20589.h5
+2025-09-19 07:44:08,848 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2583.h5 in 7.11 seconds
+2025-09-19 07:44:08,880 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/19647.h5
+2025-09-19 07:44:09,055 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/1533.h5 in 9.31 seconds
+2025-09-19 07:44:09,102 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/23004.h5
+2025-09-19 07:44:09,114 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/21892.h5
+2025-09-19 07:44:09,500 - INFO - File 8181: Filtered 824206 hits and 6 records
+2025-09-19 07:44:09,531 - INFO - File 20589: Filtered 740195 hits and 5 records
+2025-09-19 07:44:09,614 - INFO - File 19647: Filtered 2717766 hits and 6 records
+2025-09-19 07:44:09,987 - INFO - File 23004: Filtered 1844693 hits and 6 records
+2025-09-19 07:44:09,990 - INFO - File 21892: Filtered 120317 hits and 3 records
+2025-09-19 07:44:10,177 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10381.h5 in 6.82 seconds
+2025-09-19 07:44:10,245 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/92.h5
+2025-09-19 07:44:10,809 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/11983.h5 in 8.79 seconds
+2025-09-19 07:44:10,850 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7034.h5 in 11.93 seconds
+2025-09-19 07:44:10,880 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/21071.h5
+2025-09-19 07:44:10,929 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7842.h5
+2025-09-19 07:44:10,971 - INFO - File 92: Filtered 1531505 hits and 5 records
+2025-09-19 07:44:11,183 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/21056.h5 in 8.73 seconds
+2025-09-19 07:44:11,222 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9070.h5
+2025-09-19 07:44:11,598 - INFO - File 21071: Filtered 1277119 hits and 5 records
+2025-09-19 07:44:11,659 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/19647.h5 in 2.78 seconds
+2025-09-19 07:44:11,698 - INFO - File 7842: Filtered 981514 hits and 8 records
+2025-09-19 07:44:11,755 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13572.h5
+2025-09-19 07:44:11,984 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16556.h5 in 8.97 seconds
+2025-09-19 07:44:12,080 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/6120.h5
+2025-09-19 07:44:12,194 - INFO - File 9070: Filtered 73690 hits and 2 records
+2025-09-19 07:44:12,423 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/1510.h5 in 7.61 seconds
+2025-09-19 07:44:12,446 - INFO - File 13572: Filtered 1167096 hits and 4 records
+2025-09-19 07:44:12,502 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/18082.h5
+2025-09-19 07:44:12,781 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2815.h5 in 6.72 seconds
+2025-09-19 07:44:12,866 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/12472.h5
+2025-09-19 07:44:12,881 - INFO - File 6120: Filtered 1329982 hits and 6 records
+2025-09-19 07:44:13,131 - INFO - File 18082: Filtered 1730039 hits and 7 records
+2025-09-19 07:44:13,339 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14646.h5 in 19.59 seconds
+2025-09-19 07:44:13,414 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/1396.h5
+2025-09-19 07:44:13,564 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2914.h5 in 7.77 seconds
+2025-09-19 07:44:13,635 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/21142.h5
+2025-09-19 07:44:13,844 - INFO - File 12472: Filtered 84508 hits and 1 records
+2025-09-19 07:44:13,959 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2948.h5 in 6.67 seconds
+2025-09-19 07:44:13,997 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9355.h5
+2025-09-19 07:44:14,291 - INFO - File 1396: Filtered 1109031 hits and 5 records
+2025-09-19 07:44:14,720 - INFO - File 9355: Filtered 1739165 hits and 5 records
+2025-09-19 07:44:14,853 - INFO - File 21142: Filtered 735832 hits and 9 records
+2025-09-19 07:44:16,295 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/18082.h5 in 3.79 seconds
+2025-09-19 07:44:16,331 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14438.h5
+2025-09-19 07:44:16,332 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/23004.h5 in 7.23 seconds
+2025-09-19 07:44:16,610 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/884.h5
+2025-09-19 07:44:17,103 - INFO - File 14438: Filtered 1455490 hits and 5 records
+2025-09-19 07:44:17,269 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/92.h5 in 7.02 seconds
+2025-09-19 07:44:17,342 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15.h5
+2025-09-19 07:44:17,487 - INFO - File 884: Filtered 2550967 hits and 6 records
+2025-09-19 07:44:17,498 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5520.h5 in 9.92 seconds
+2025-09-19 07:44:17,578 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/17189.h5
+2025-09-19 07:44:18,052 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8181.h5 in 9.40 seconds
+2025-09-19 07:44:18,118 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/6551.h5
+2025-09-19 07:44:18,140 - INFO - File 15: Filtered 1397853 hits and 5 records
+2025-09-19 07:44:18,433 - INFO - File 17189: Filtered 671403 hits and 4 records
+2025-09-19 07:44:18,997 - INFO - File 6551: Filtered 1168653 hits and 6 records
+2025-09-19 07:44:19,228 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20589.h5 in 10.47 seconds
+2025-09-19 07:44:19,268 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8838.h5
+2025-09-19 07:44:19,489 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/21071.h5 in 8.61 seconds
+2025-09-19 07:44:19,532 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/12698.h5
+2025-09-19 07:44:19,738 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9355.h5 in 5.74 seconds
+2025-09-19 07:44:19,894 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2477.h5
+2025-09-19 07:44:20,092 - INFO - File 8838: Filtered 1630925 hits and 9 records
+2025-09-19 07:44:20,310 - INFO - File 12698: Filtered 2044513 hits and 3 records
+2025-09-19 07:44:20,392 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7842.h5 in 9.46 seconds
+2025-09-19 07:44:20,476 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/19996.h5
+2025-09-19 07:44:20,664 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/6120.h5 in 8.58 seconds
+2025-09-19 07:44:20,735 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20348.h5
+2025-09-19 07:44:20,749 - INFO - File 2477: Filtered 1001972 hits and 5 records
+2025-09-19 07:44:20,844 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13572.h5 in 9.09 seconds
+2025-09-19 07:44:20,902 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/6639.h5
+2025-09-19 07:44:21,303 - INFO - File 19996: Filtered 1497666 hits and 4 records
+2025-09-19 07:44:21,706 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/884.h5 in 5.10 seconds
+2025-09-19 07:44:21,772 - INFO - File 6639: Filtered 1306432 hits and 5 records
+2025-09-19 07:44:21,772 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14273.h5
+2025-09-19 07:44:21,782 - INFO - File 20348: Filtered 1147774 hits and 3 records
+2025-09-19 07:44:22,313 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/21892.h5 in 13.20 seconds
+2025-09-19 07:44:22,379 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15543.h5
+2025-09-19 07:44:22,622 - INFO - File 14273: Filtered 1057863 hits and 3 records
+2025-09-19 07:44:23,145 - INFO - File 15543: Filtered 1700245 hits and 6 records
+2025-09-19 07:44:24,043 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/1396.h5 in 10.63 seconds
+2025-09-19 07:44:24,083 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13749.h5
+2025-09-19 07:44:24,939 - INFO - File 13749: Filtered 1526390 hits and 8 records
+2025-09-19 07:44:25,272 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14438.h5 in 8.94 seconds
+2025-09-19 07:44:25,339 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9480.h5
+2025-09-19 07:44:25,514 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/17189.h5 in 7.94 seconds
+2025-09-19 07:44:25,670 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/17108.h5
+2025-09-19 07:44:26,227 - INFO - File 9480: Filtered 630603 hits and 2 records
+2025-09-19 07:44:26,241 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/12698.h5 in 6.71 seconds
+2025-09-19 07:44:26,374 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/22770.h5
+2025-09-19 07:44:26,593 - INFO - File 17108: Filtered 802902 hits and 3 records
+2025-09-19 07:44:26,722 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15.h5 in 9.38 seconds
+2025-09-19 07:44:26,789 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2966.h5
+2025-09-19 07:44:27,268 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9070.h5 in 16.05 seconds
+2025-09-19 07:44:27,275 - INFO - File 22770: Filtered 1666716 hits and 5 records
+2025-09-19 07:44:27,331 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10101.h5
+2025-09-19 07:44:27,506 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2477.h5 in 7.61 seconds
+2025-09-19 07:44:27,576 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3433.h5
+2025-09-19 07:44:27,668 - INFO - File 2966: Filtered 3655899 hits and 7 records
+2025-09-19 07:44:28,145 - INFO - File 10101: Filtered 1904703 hits and 3 records
+2025-09-19 07:44:28,460 - INFO - File 3433: Filtered 3078360 hits and 5 records
+2025-09-19 07:44:28,637 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/6551.h5 in 10.52 seconds
+2025-09-19 07:44:28,706 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14943.h5
+2025-09-19 07:44:29,332 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8838.h5 in 10.06 seconds
+2025-09-19 07:44:29,399 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/620.h5
+2025-09-19 07:44:29,525 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2966.h5 in 2.74 seconds
+2025-09-19 07:44:29,633 - INFO - File 14943: Filtered 103039 hits and 2 records
+2025-09-19 07:44:29,705 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14958.h5
+2025-09-19 07:44:29,878 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/19996.h5 in 9.40 seconds
+2025-09-19 07:44:29,947 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3064.h5
+2025-09-19 07:44:30,193 - INFO - File 620: Filtered 586486 hits and 3 records
+2025-09-19 07:44:30,602 - INFO - File 14958: Filtered 1747327 hits and 6 records
+2025-09-19 07:44:30,923 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15543.h5 in 8.54 seconds
+2025-09-19 07:44:31,007 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20649.h5
+2025-09-19 07:44:31,233 - INFO - File 3064: Filtered 706671 hits and 5 records
+2025-09-19 07:44:31,392 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/12472.h5 in 18.53 seconds
+2025-09-19 07:44:31,440 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7652.h5
+2025-09-19 07:44:31,571 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/6639.h5 in 10.67 seconds
+2025-09-19 07:44:31,634 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4984.h5
+2025-09-19 07:44:31,891 - INFO - File 20649: Filtered 1831319 hits and 7 records
+2025-09-19 07:44:31,911 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3433.h5 in 4.33 seconds
+2025-09-19 07:44:31,975 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5667.h5
+2025-09-19 07:44:31,997 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/21142.h5 in 18.36 seconds
+2025-09-19 07:44:32,214 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16798.h5
+2025-09-19 07:44:32,484 - INFO - File 4984: Filtered 1324814 hits and 7 records
+2025-09-19 07:44:32,502 - INFO - File 7652: Filtered 766893 hits and 4 records
+2025-09-19 07:44:32,926 - INFO - File 5667: Filtered 3561940 hits and 7 records
+2025-09-19 07:44:33,575 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14273.h5 in 11.80 seconds
+2025-09-19 07:44:33,649 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9792.h5
+2025-09-19 07:44:33,662 - INFO - File 16798: Filtered 641564 hits and 4 records
+2025-09-19 07:44:34,672 - INFO - File 9792: Filtered 2234338 hits and 4 records
+2025-09-19 07:44:34,763 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10101.h5 in 7.43 seconds
+2025-09-19 07:44:34,827 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15922.h5
+2025-09-19 07:44:34,912 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13749.h5 in 10.83 seconds
+2025-09-19 07:44:34,985 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20348.h5 in 14.25 seconds
+2025-09-19 07:44:35,082 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15881.h5
+2025-09-19 07:44:35,087 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5667.h5 in 3.11 seconds
+2025-09-19 07:44:35,160 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14867.h5
+2025-09-19 07:44:35,297 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/209.h5
+2025-09-19 07:44:35,626 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/22770.h5 in 9.25 seconds
+2025-09-19 07:44:35,687 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/22084.h5
+2025-09-19 07:44:35,826 - INFO - File 15922: Filtered 1368346 hits and 2 records
+2025-09-19 07:44:36,003 - INFO - File 14867: Filtered 1766581 hits and 3 records
+2025-09-19 07:44:36,088 - INFO - File 15881: Filtered 1075469 hits and 3 records
+2025-09-19 07:44:36,427 - INFO - File 209: Filtered 1474512 hits and 4 records
+2025-09-19 07:44:36,741 - INFO - File 22084: Filtered 1097201 hits and 3 records
+2025-09-19 07:44:37,746 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14958.h5 in 8.04 seconds
+2025-09-19 07:44:37,816 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/21080.h5
+2025-09-19 07:44:38,253 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/17108.h5 in 12.58 seconds
+2025-09-19 07:44:38,315 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/12243.h5
+2025-09-19 07:44:38,772 - INFO - File 21080: Filtered 1571524 hits and 6 records
+2025-09-19 07:44:39,068 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9480.h5 in 13.73 seconds
+2025-09-19 07:44:39,144 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4038.h5
+2025-09-19 07:44:39,249 - INFO - File 12243: Filtered 4068562 hits and 5 records
+2025-09-19 07:44:39,803 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9792.h5 in 6.15 seconds
+2025-09-19 07:44:39,869 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5318.h5
+2025-09-19 07:44:39,977 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20649.h5 in 8.97 seconds
+2025-09-19 07:44:40,036 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2312.h5
+2025-09-19 07:44:40,631 - INFO - File 4038: Filtered 721521 hits and 7 records
+2025-09-19 07:44:40,950 - INFO - File 5318: Filtered 2410569 hits and 6 records
+2025-09-19 07:44:40,974 - INFO - File 2312: Filtered 2391937 hits and 6 records
+2025-09-19 07:44:41,290 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/12243.h5 in 2.97 seconds
+2025-09-19 07:44:41,362 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4204.h5
+2025-09-19 07:44:41,629 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/620.h5 in 12.23 seconds
+2025-09-19 07:44:41,693 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/23169.h5
+2025-09-19 07:44:42,331 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4984.h5 in 10.70 seconds
+2025-09-19 07:44:42,414 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3957.h5
+2025-09-19 07:44:42,580 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14867.h5 in 7.42 seconds
+2025-09-19 07:44:42,580 - INFO - File 23169: Filtered 887995 hits and 4 records
+2025-09-19 07:44:42,715 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13494.h5
+2025-09-19 07:44:42,811 - INFO - File 4204: Filtered 133040 hits and 3 records
+2025-09-19 07:44:43,591 - INFO - File 3957: Filtered 2512591 hits and 8 records
+2025-09-19 07:44:43,890 - INFO - File 13494: Filtered 1577582 hits and 5 records
+2025-09-19 07:44:45,661 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14943.h5 in 16.95 seconds
+2025-09-19 07:44:45,726 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5206.h5
+2025-09-19 07:44:45,813 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15922.h5 in 10.99 seconds
+2025-09-19 07:44:45,883 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/1596.h5
+2025-09-19 07:44:46,124 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7652.h5 in 14.68 seconds
+2025-09-19 07:44:46,204 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/23242.h5
+2025-09-19 07:44:46,680 - INFO - File 5206: Filtered 1459536 hits and 8 records
+2025-09-19 07:44:46,706 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/209.h5 in 11.41 seconds
+2025-09-19 07:44:46,750 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10288.h5
+2025-09-19 07:44:46,842 - INFO - File 1596: Filtered 1280951 hits and 6 records
+2025-09-19 07:44:47,618 - INFO - File 23242: Filtered 3298839 hits and 6 records
+2025-09-19 07:44:47,702 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15881.h5 in 12.62 seconds
+2025-09-19 07:44:47,793 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3262.h5
+2025-09-19 07:44:47,901 - INFO - File 10288: Filtered 2856075 hits and 6 records
+2025-09-19 07:44:48,721 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2312.h5 in 8.68 seconds
+2025-09-19 07:44:48,795 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4882.h5
+2025-09-19 07:44:48,843 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3064.h5 in 18.90 seconds
+2025-09-19 07:44:48,843 - INFO - File 3262: Filtered 523078 hits and 6 records
+2025-09-19 07:44:49,135 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2023.h5
+2025-09-19 07:44:49,431 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5318.h5 in 9.56 seconds
+2025-09-19 07:44:49,509 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8986.h5
+2025-09-19 07:44:50,297 - INFO - File 2023: Filtered 4484915 hits and 6 records
+2025-09-19 07:44:50,385 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/22084.h5 in 14.70 seconds
+2025-09-19 07:44:50,467 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/384.h5
+2025-09-19 07:44:50,482 - INFO - File 4882: Filtered 385386 hits and 3 records
+2025-09-19 07:44:50,484 - INFO - File 8986: Filtered 451706 hits and 2 records
+2025-09-19 07:44:50,585 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/21080.h5 in 12.77 seconds
+2025-09-19 07:44:50,623 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13935.h5
+2025-09-19 07:44:51,470 - INFO - File 384: Filtered 2981770 hits and 7 records
+2025-09-19 07:44:51,833 - INFO - File 13935: Filtered 1903297 hits and 5 records
+2025-09-19 07:44:52,547 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2023.h5 in 3.41 seconds
+2025-09-19 07:44:52,632 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/18773.h5
+2025-09-19 07:44:52,679 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3957.h5 in 10.27 seconds
+2025-09-19 07:44:52,761 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/12676.h5
+2025-09-19 07:44:53,685 - INFO - File 18773: Filtered 1867487 hits and 5 records
+2025-09-19 07:44:53,800 - INFO - File 12676: Filtered 1966594 hits and 4 records
+2025-09-19 07:44:54,192 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13494.h5 in 11.48 seconds
+2025-09-19 07:44:54,260 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10369.h5
+2025-09-19 07:44:54,328 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10288.h5 in 7.58 seconds
+2025-09-19 07:44:54,406 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10145.h5
+2025-09-19 07:44:54,477 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/23169.h5 in 12.78 seconds
+2025-09-19 07:44:54,689 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8099.h5
+2025-09-19 07:44:55,351 - INFO - File 10369: Filtered 411132 hits and 4 records
+2025-09-19 07:44:55,871 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16798.h5 in 23.66 seconds
+2025-09-19 07:44:55,938 - INFO - File 8099: Filtered 2680469 hits and 5 records
+2025-09-19 07:44:55,953 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7241.h5
+2025-09-19 07:44:56,429 - INFO - File 10145: Filtered 560186 hits and 4 records
+2025-09-19 07:44:57,171 - INFO - File 7241: Filtered 1752378 hits and 5 records
+2025-09-19 07:44:58,588 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5206.h5 in 12.86 seconds
+2025-09-19 07:44:58,692 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10494.h5
+2025-09-19 07:44:59,094 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/384.h5 in 8.63 seconds
+2025-09-19 07:44:59,157 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2431.h5
+2025-09-19 07:44:59,217 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/1596.h5 in 13.33 seconds
+2025-09-19 07:44:59,286 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/21711.h5
+2025-09-19 07:44:59,448 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/23242.h5 in 13.24 seconds
+2025-09-19 07:44:59,600 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/18593.h5
+2025-09-19 07:44:59,888 - INFO - File 10494: Filtered 1703078 hits and 2 records
+2025-09-19 07:45:00,351 - INFO - File 2431: Filtered 3501563 hits and 5 records
+2025-09-19 07:45:00,418 - INFO - File 21711: Filtered 2307219 hits and 5 records
+2025-09-19 07:45:00,875 - INFO - File 18593: Filtered 2635016 hits and 6 records
+2025-09-19 07:45:04,030 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4038.h5 in 24.89 seconds
+2025-09-19 07:45:04,105 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13460.h5
+2025-09-19 07:45:04,291 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2431.h5 in 5.13 seconds
+2025-09-19 07:45:04,375 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16869.h5
+2025-09-19 07:45:04,586 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8986.h5 in 15.08 seconds
+2025-09-19 07:45:04,655 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/12277.h5
+2025-09-19 07:45:05,274 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/12676.h5 in 12.51 seconds
+2025-09-19 07:45:05,355 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/6735.h5
+2025-09-19 07:45:05,389 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3262.h5 in 17.60 seconds
+2025-09-19 07:45:05,451 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7954.h5
+2025-09-19 07:45:05,467 - INFO - File 16869: Filtered 2768500 hits and 10 records
+2025-09-19 07:45:05,554 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8099.h5 in 10.87 seconds
+2025-09-19 07:45:05,562 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/18773.h5 in 12.93 seconds
+2025-09-19 07:45:05,718 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8213.h5
+2025-09-19 07:45:05,757 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13935.h5 in 15.13 seconds
+2025-09-19 07:45:05,810 - INFO - File 12277: Filtered 4255058 hits and 5 records
+2025-09-19 07:45:05,921 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4386.h5
+2025-09-19 07:45:06,128 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/171.h5
+2025-09-19 07:45:06,763 - INFO - File 6735: Filtered 1522116 hits and 1 records
+2025-09-19 07:45:07,095 - INFO - File 7954: Filtered 339174 hits and 4 records
+2025-09-19 07:45:07,496 - INFO - File 4386: Filtered 898608 hits and 2 records
+2025-09-19 07:45:07,769 - INFO - File 171: Filtered 1392365 hits and 6 records
+2025-09-19 07:45:07,844 - INFO - File 13460: Filtered 367708 hits and 4 records
+2025-09-19 07:45:08,390 - INFO - File 8213: Filtered 85809 hits and 2 records
+2025-09-19 07:45:09,482 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4204.h5 in 28.12 seconds
+2025-09-19 07:45:09,572 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/17683.h5
+2025-09-19 07:45:09,985 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/12277.h5 in 5.33 seconds
+2025-09-19 07:45:10,025 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7357.h5
+2025-09-19 07:45:10,698 - INFO - File 17683: Filtered 1561418 hits and 3 records
+2025-09-19 07:45:11,153 - INFO - File 7357: Filtered 2496808 hits and 5 records
+2025-09-19 07:45:12,243 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/18593.h5 in 12.64 seconds
+2025-09-19 07:45:12,311 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/344.h5
+2025-09-19 07:45:12,807 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/21711.h5 in 13.52 seconds
+2025-09-19 07:45:12,871 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7804.h5
+2025-09-19 07:45:12,909 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7241.h5 in 16.96 seconds
+2025-09-19 07:45:12,977 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2100.h5
+2025-09-19 07:45:13,505 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10369.h5 in 19.25 seconds
+2025-09-19 07:45:13,560 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/11090.h5
+2025-09-19 07:45:13,574 - INFO - File 344: Filtered 2865700 hits and 6 records
+2025-09-19 07:45:13,743 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10494.h5 in 15.05 seconds
+2025-09-19 07:45:13,927 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/18180.h5
+2025-09-19 07:45:14,200 - INFO - File 7804: Filtered 1441547 hits and 3 records
+2025-09-19 07:45:14,288 - INFO - File 2100: Filtered 396198 hits and 4 records
+2025-09-19 07:45:14,825 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16869.h5 in 10.45 seconds
+2025-09-19 07:45:14,944 - INFO - File 11090: Filtered 1921425 hits and 4 records
+2025-09-19 07:45:14,954 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4947.h5
+2025-09-19 07:45:15,393 - INFO - File 18180: Filtered 1849242 hits and 5 records
+2025-09-19 07:45:16,121 - INFO - File 4947: Filtered 2685726 hits and 6 records
+2025-09-19 07:45:17,804 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4882.h5 in 29.01 seconds
+2025-09-19 07:45:17,881 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7798.h5
+2025-09-19 07:45:19,102 - INFO - File 7798: Filtered 2966393 hits and 5 records
+2025-09-19 07:45:21,317 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7357.h5 in 11.29 seconds
+2025-09-19 07:45:21,320 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/6735.h5 in 15.97 seconds
+2025-09-19 07:45:21,375 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7064.h5
+2025-09-19 07:45:21,612 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8020.h5
+2025-09-19 07:45:22,585 - INFO - File 7064: Filtered 1650569 hits and 7 records
+2025-09-19 07:45:22,947 - INFO - File 8020: Filtered 2966218 hits and 3 records
+2025-09-19 07:45:23,761 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/171.h5 in 17.63 seconds
+2025-09-19 07:45:23,836 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3050.h5
+2025-09-19 07:45:24,752 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/17683.h5 in 15.18 seconds
+2025-09-19 07:45:24,822 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/21502.h5
+2025-09-19 07:45:25,070 - INFO - File 3050: Filtered 2541838 hits and 5 records
+2025-09-19 07:45:25,499 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4386.h5 in 19.58 seconds
+2025-09-19 07:45:25,570 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3088.h5
+2025-09-19 07:45:25,733 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/344.h5 in 13.42 seconds
+2025-09-19 07:45:25,893 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8756.h5
+2025-09-19 07:45:26,299 - INFO - File 21502: Filtered 444256 hits and 3 records
+2025-09-19 07:45:26,378 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4947.h5 in 11.42 seconds
+2025-09-19 07:45:26,414 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/1798.h5
+2025-09-19 07:45:27,461 - INFO - File 8756: Filtered 2932858 hits and 5 records
+2025-09-19 07:45:27,826 - INFO - File 3088: Filtered 1301718 hits and 6 records
+2025-09-19 07:45:28,257 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10145.h5 in 33.85 seconds
+2025-09-19 07:45:28,267 - INFO - File 1798: Filtered 1637975 hits and 6 records
+2025-09-19 07:45:28,335 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9785.h5
+2025-09-19 07:45:29,157 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/18180.h5 in 15.23 seconds
+2025-09-19 07:45:29,198 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/6446.h5
+2025-09-19 07:45:29,827 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7804.h5 in 16.96 seconds
+2025-09-19 07:45:29,903 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7185.h5
+2025-09-19 07:45:29,918 - INFO - File 9785: Filtered 2339496 hits and 7 records
+2025-09-19 07:45:30,313 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/11090.h5 in 16.75 seconds
+2025-09-19 07:45:30,367 - INFO - File 6446: Filtered 912600 hits and 4 records
+2025-09-19 07:45:30,399 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5186.h5
+2025-09-19 07:45:31,144 - INFO - File 7185: Filtered 3891153 hits and 6 records
+2025-09-19 07:45:31,330 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7798.h5 in 13.45 seconds
+2025-09-19 07:45:31,403 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4574.h5
+2025-09-19 07:45:31,748 - INFO - File 5186: Filtered 949943 hits and 4 records
+2025-09-19 07:45:32,669 - INFO - File 4574: Filtered 2234835 hits and 3 records
+2025-09-19 07:45:33,211 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7954.h5 in 27.76 seconds
+2025-09-19 07:45:33,296 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10668.h5
+2025-09-19 07:45:34,363 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8020.h5 in 12.75 seconds
+2025-09-19 07:45:34,475 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/21418.h5
+2025-09-19 07:45:34,593 - INFO - File 10668: Filtered 4127665 hits and 5 records
+2025-09-19 07:45:35,108 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2100.h5 in 22.13 seconds
+2025-09-19 07:45:35,188 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9341.h5
+2025-09-19 07:45:35,779 - INFO - File 21418: Filtered 2469971 hits and 8 records
+2025-09-19 07:45:36,610 - INFO - File 9341: Filtered 2994892 hits and 7 records
+2025-09-19 07:45:36,681 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7064.h5 in 15.31 seconds
+2025-09-19 07:45:36,765 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7032.h5
+2025-09-19 07:45:37,634 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3050.h5 in 13.80 seconds
+2025-09-19 07:45:37,695 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/6005.h5
+2025-09-19 07:45:38,112 - INFO - File 7032: Filtered 703446 hits and 5 records
+2025-09-19 07:45:38,976 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8756.h5 in 13.08 seconds
+2025-09-19 07:45:39,042 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/1179.h5
+2025-09-19 07:45:39,279 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7185.h5 in 9.38 seconds
+2025-09-19 07:45:39,323 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15931.h5
+2025-09-19 07:45:40,491 - INFO - File 1179: Filtered 1120637 hits and 2 records
+2025-09-19 07:45:40,814 - INFO - File 15931: Filtered 478550 hits and 3 records
+2025-09-19 07:45:42,086 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8213.h5 in 36.37 seconds
+2025-09-19 07:45:42,187 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16244.h5
+2025-09-19 07:45:43,345 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10668.h5 in 10.05 seconds
+2025-09-19 07:45:43,429 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/18929.h5
+2025-09-19 07:45:43,615 - INFO - File 16244: Filtered 1472662 hits and 4 records
+2025-09-19 07:45:43,840 - INFO - File 6005: Filtered 547033 hits and 6 records
+2025-09-19 07:45:45,079 - INFO - File 18929: Filtered 392793 hits and 5 records
+2025-09-19 07:45:47,794 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4574.h5 in 16.39 seconds
+2025-09-19 07:45:47,831 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/22415.h5
+2025-09-19 07:45:48,756 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/6446.h5 in 19.56 seconds
+2025-09-19 07:45:48,824 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/11556.h5
+2025-09-19 07:45:49,153 - INFO - File 22415: Filtered 5977955 hits and 6 records
+2025-09-19 07:45:49,588 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9341.h5 in 14.40 seconds
+2025-09-19 07:45:49,658 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3202.h5
+2025-09-19 07:45:50,269 - INFO - File 11556: Filtered 3842503 hits and 9 records
+2025-09-19 07:45:50,377 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9785.h5 in 22.04 seconds
+2025-09-19 07:45:50,439 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7856.h5
+2025-09-19 07:45:51,087 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/22415.h5 in 3.26 seconds
+2025-09-19 07:45:51,087 - INFO - File 3202: Filtered 4403699 hits and 4 records
+2025-09-19 07:45:51,089 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5186.h5 in 20.69 seconds
+2025-09-19 07:45:51,158 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/18486.h5
+2025-09-19 07:45:51,159 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13162.h5
+2025-09-19 07:45:51,533 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/21418.h5 in 17.06 seconds
+2025-09-19 07:45:51,569 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5269.h5
+2025-09-19 07:45:51,706 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/21502.h5 in 26.88 seconds
+2025-09-19 07:45:51,876 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/19286.h5
+2025-09-19 07:45:51,948 - INFO - File 7856: Filtered 4816429 hits and 2 records
+2025-09-19 07:45:52,659 - INFO - File 18486: Filtered 4069951 hits and 7 records
+2025-09-19 07:45:53,317 - INFO - File 5269: Filtered 2795712 hits and 4 records
+2025-09-19 07:45:53,901 - INFO - File 13162: Filtered 4644323 hits and 4 records
+2025-09-19 07:45:54,160 - INFO - File 19286: Filtered 1208180 hits and 5 records
+2025-09-19 07:45:56,603 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/1798.h5 in 30.19 seconds
+2025-09-19 07:45:56,668 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16309.h5
+2025-09-19 07:45:58,374 - INFO - File 16309: Filtered 2309989 hits and 5 records
+2025-09-19 07:45:59,198 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3088.h5 in 33.63 seconds
+2025-09-19 07:45:59,278 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15674.h5
+2025-09-19 07:46:00,230 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7032.h5 in 23.46 seconds
+2025-09-19 07:46:00,295 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15720.h5
+2025-09-19 07:46:00,586 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7856.h5 in 10.15 seconds
+2025-09-19 07:46:00,665 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/21575.h5
+2025-09-19 07:46:00,708 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3202.h5 in 11.05 seconds
+2025-09-19 07:46:00,778 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14036.h5
+2025-09-19 07:46:01,256 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/1179.h5 in 22.21 seconds
+2025-09-19 07:46:01,352 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/23279.h5
+2025-09-19 07:46:01,579 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15931.h5 in 22.26 seconds
+2025-09-19 07:46:01,688 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10592.h5
+2025-09-19 07:46:01,898 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/11556.h5 in 13.07 seconds
+2025-09-19 07:46:01,972 - INFO - File 15674: Filtered 6787940 hits and 5 records
+2025-09-19 07:46:01,991 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/122.h5
+2025-09-19 07:46:02,450 - INFO - File 21575: Filtered 459167 hits and 5 records
+2025-09-19 07:46:02,755 - INFO - File 15720: Filtered 3082088 hits and 6 records
+2025-09-19 07:46:02,815 - INFO - File 14036: Filtered 1519587 hits and 6 records
+2025-09-19 07:46:03,236 - INFO - File 23279: Filtered 2466316 hits and 4 records
+2025-09-19 07:46:03,949 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16244.h5 in 21.76 seconds
+2025-09-19 07:46:04,040 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14615.h5
+2025-09-19 07:46:04,261 - INFO - File 10592: Filtered 2744562 hits and 7 records
+2025-09-19 07:46:04,929 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/18486.h5 in 13.77 seconds
+2025-09-19 07:46:04,999 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7069.h5
+2025-09-19 07:46:05,037 - INFO - File 122: Filtered 418916 hits and 3 records
+2025-09-19 07:46:08,883 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/18929.h5 in 25.45 seconds
+2025-09-19 07:46:09,048 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3514.h5
+2025-09-19 07:46:10,827 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5269.h5 in 19.26 seconds
+2025-09-19 07:46:10,873 - INFO - File 14615: Filtered 230896 hits and 4 records
+2025-09-19 07:46:10,890 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/12889.h5
+2025-09-19 07:46:11,031 - INFO - File 3514: Filtered 3183835 hits and 6 records
+2025-09-19 07:46:11,371 - INFO - File 7069: Filtered 14860496 hits and 6 records
+2025-09-19 07:46:11,845 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13460.h5 in 67.74 seconds
+2025-09-19 07:46:11,918 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4510.h5
+2025-09-19 07:46:12,827 - INFO - File 12889: Filtered 2072237 hits and 5 records
+2025-09-19 07:46:14,295 - INFO - File 4510: Filtered 2582428 hits and 3 records
+2025-09-19 07:46:17,960 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16309.h5 in 21.29 seconds
+2025-09-19 07:46:18,029 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7445.h5
+2025-09-19 07:46:19,191 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15720.h5 in 18.90 seconds
+2025-09-19 07:46:19,256 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/1461.h5
+2025-09-19 07:46:20,021 - INFO - File 7445: Filtered 2079714 hits and 4 records
+2025-09-19 07:46:21,456 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13162.h5 in 30.30 seconds
+2025-09-19 07:46:21,542 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/11814.h5
+2025-09-19 07:46:22,592 - INFO - File 1461: Filtered 1315940 hits and 5 records
+2025-09-19 07:46:22,762 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/23279.h5 in 21.41 seconds
+2025-09-19 07:46:22,808 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3630.h5
+2025-09-19 07:46:24,782 - INFO - File 11814: Filtered 2607452 hits and 3 records
+2025-09-19 07:46:25,190 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/19286.h5 in 33.31 seconds
+2025-09-19 07:46:25,308 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/679.h5
+2025-09-19 07:46:25,821 - INFO - File 3630: Filtered 8212483 hits and 7 records
+2025-09-19 07:46:27,255 - INFO - File 679: Filtered 2949378 hits and 7 records
+2025-09-19 07:46:27,257 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15674.h5 in 27.98 seconds
+2025-09-19 07:46:27,356 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/1639.h5
+2025-09-19 07:46:28,582 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14036.h5 in 27.80 seconds
+2025-09-19 07:46:28,663 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13805.h5
+2025-09-19 07:46:29,086 - INFO - File 1639: Filtered 2694646 hits and 6 records
+2025-09-19 07:46:29,194 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3514.h5 in 20.15 seconds
+2025-09-19 07:46:29,237 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/11287.h5
+2025-09-19 07:46:30,607 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/21575.h5 in 29.94 seconds
+2025-09-19 07:46:30,692 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9807.h5
+2025-09-19 07:46:30,844 - INFO - File 13805: Filtered 557074 hits and 3 records
+2025-09-19 07:46:30,935 - INFO - File 11287: Filtered 4934295 hits and 8 records
+2025-09-19 07:46:32,371 - INFO - File 9807: Filtered 1784815 hits and 2 records
+2025-09-19 07:46:33,987 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10592.h5 in 32.30 seconds
+2025-09-19 07:46:34,054 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/17112.h5
+2025-09-19 07:46:37,344 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/12889.h5 in 26.45 seconds
+2025-09-19 07:46:37,419 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8077.h5
+2025-09-19 07:46:39,360 - INFO - File 8077: Filtered 537949 hits and 2 records
+2025-09-19 07:46:42,600 - INFO - File 17112: Filtered 22211874 hits and 1 records
+2025-09-19 07:46:44,153 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4510.h5 in 32.24 seconds
+2025-09-19 07:46:44,234 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14696.h5
+2025-09-19 07:46:44,740 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/11287.h5 in 15.50 seconds
+2025-09-19 07:46:44,816 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5372.h5
+2025-09-19 07:46:46,185 - INFO - File 14696: Filtered 2842247 hits and 4 records
+2025-09-19 07:46:46,206 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7445.h5 in 28.18 seconds
+2025-09-19 07:46:46,287 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/598.h5
+2025-09-19 07:46:48,311 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/679.h5 in 23.00 seconds
+2025-09-19 07:46:48,342 - INFO - File 598: Filtered 4614358 hits and 7 records
+2025-09-19 07:46:48,382 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7023.h5
+2025-09-19 07:46:50,394 - INFO - File 7023: Filtered 2882092 hits and 4 records
+2025-09-19 07:46:51,244 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/1639.h5 in 23.89 seconds
+2025-09-19 07:46:51,292 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4497.h5
+2025-09-19 07:46:54,015 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/122.h5 in 52.02 seconds
+2025-09-19 07:46:54,085 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/17275.h5
+2025-09-19 07:46:54,823 - INFO - File 5372: Filtered 16990147 hits and 3 records
+2025-09-19 07:46:55,503 - INFO - File 4497: Filtered 94436 hits and 2 records
+2025-09-19 07:46:56,219 - INFO - File 17275: Filtered 6410281 hits and 5 records
+2025-09-19 07:46:56,766 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3630.h5 in 33.96 seconds
+2025-09-19 07:46:56,869 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10346.h5
+2025-09-19 07:46:58,786 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9807.h5 in 28.09 seconds
+2025-09-19 07:46:58,912 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/1030.h5
+2025-09-19 07:46:59,003 - INFO - File 10346: Filtered 3728151 hits and 4 records
+2025-09-19 07:47:00,851 - INFO - File 1030: Filtered 3423814 hits and 2 records
+2025-09-19 07:47:03,148 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7069.h5 in 58.15 seconds
+2025-09-19 07:47:03,225 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9354.h5
+2025-09-19 07:47:06,799 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/11814.h5 in 45.26 seconds
+2025-09-19 07:47:06,867 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16100.h5
+2025-09-19 07:47:08,999 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13805.h5 in 40.34 seconds
+2025-09-19 07:47:09,041 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10997.h5
+2025-09-19 07:47:09,052 - INFO - File 16100: Filtered 5877782 hits and 5 records
+2025-09-19 07:47:09,970 - INFO - File 9354: Filtered 1170824 hits and 5 records
+2025-09-19 07:47:10,826 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/598.h5 in 24.54 seconds
+2025-09-19 07:47:10,907 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10502.h5
+2025-09-19 07:47:10,959 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8077.h5 in 33.54 seconds
+2025-09-19 07:47:11,220 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16931.h5
+2025-09-19 07:47:11,380 - INFO - File 10997: Filtered 2640466 hits and 6 records
+2025-09-19 07:47:13,396 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14696.h5 in 29.16 seconds
+2025-09-19 07:47:13,519 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5554.h5
+2025-09-19 07:47:13,911 - INFO - File 16931: Filtered 266683 hits and 5 records
+2025-09-19 07:47:14,161 - INFO - File 10502: Filtered 651126 hits and 7 records
+2025-09-19 07:47:14,393 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/17275.h5 in 20.31 seconds
+2025-09-19 07:47:14,467 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/17927.h5
+2025-09-19 07:47:16,353 - INFO - File 5554: Filtered 3579256 hits and 4 records
+2025-09-19 07:47:17,639 - INFO - File 17927: Filtered 7631989 hits and 7 records
+2025-09-19 07:47:18,112 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/1461.h5 in 58.86 seconds
+2025-09-19 07:47:18,192 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9882.h5
+2025-09-19 07:47:18,318 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7023.h5 in 29.94 seconds
+2025-09-19 07:47:18,501 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/12025.h5
+2025-09-19 07:47:19,493 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10346.h5 in 22.62 seconds
+2025-09-19 07:47:19,589 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9765.h5
+2025-09-19 07:47:21,162 - INFO - File 9882: Filtered 7650497 hits and 8 records
+2025-09-19 07:47:21,440 - INFO - File 9765: Filtered 2538212 hits and 6 records
+2025-09-19 07:47:21,637 - INFO - File 12025: Filtered 5697107 hits and 2 records
+2025-09-19 07:47:22,788 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/1030.h5 in 23.88 seconds
+2025-09-19 07:47:22,833 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3308.h5
+2025-09-19 07:47:25,318 - INFO - File 3308: Filtered 342861 hits and 3 records
+2025-09-19 07:47:29,488 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16100.h5 in 22.62 seconds
+2025-09-19 07:47:29,556 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9507.h5
+2025-09-19 07:47:31,343 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/6005.h5 in 113.65 seconds
+2025-09-19 07:47:31,411 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15011.h5
+2025-09-19 07:47:32,425 - INFO - File 9507: Filtered 6638057 hits and 9 records
+2025-09-19 07:47:33,534 - INFO - File 15011: Filtered 5420919 hits and 5 records
+2025-09-19 07:47:43,744 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10997.h5 in 34.70 seconds
+2025-09-19 07:47:43,820 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/23212.h5
+2025-09-19 07:47:45,003 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/17927.h5 in 30.54 seconds
+2025-09-19 07:47:45,071 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2270.h5
+2025-09-19 07:47:46,690 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9765.h5 in 27.10 seconds
+2025-09-19 07:47:46,762 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/19646.h5
+2025-09-19 07:47:48,479 - INFO - File 2270: Filtered 8485913 hits and 3 records
+2025-09-19 07:47:48,852 - INFO - File 19646: Filtered 3390383 hits and 6 records
+2025-09-19 07:47:49,019 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9882.h5 in 30.83 seconds
+2025-09-19 07:47:49,069 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15960.h5
+2025-09-19 07:47:51,027 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5554.h5 in 37.51 seconds
+2025-09-19 07:47:51,068 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14522.h5
+2025-09-19 07:47:51,074 - INFO - File 23212: Filtered 680409 hits and 5 records
+2025-09-19 07:47:52,749 - INFO - File 15960: Filtered 11498056 hits and 5 records
+2025-09-19 07:47:53,589 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15011.h5 in 22.18 seconds
+2025-09-19 07:47:53,701 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4291.h5
+2025-09-19 07:47:54,552 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16931.h5 in 43.33 seconds
+2025-09-19 07:47:54,640 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/12475.h5
+2025-09-19 07:47:55,917 - INFO - File 4291: Filtered 10680947 hits and 5 records
+2025-09-19 07:47:58,964 - INFO - File 12475: Filtered 7432535 hits and 5 records
+2025-09-19 07:47:59,136 - INFO - File 14522: Filtered 4989736 hits and 5 records
+2025-09-19 07:47:59,655 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4291.h5 in 5.95 seconds
+2025-09-19 07:47:59,694 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2598.h5
+2025-09-19 07:47:59,837 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/12025.h5 in 41.34 seconds
+2025-09-19 07:47:59,909 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/17939.h5
+2025-09-19 07:48:01,934 - INFO - File 2598: Filtered 7625328 hits and 9 records
+2025-09-19 07:48:07,351 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14615.h5 in 123.31 seconds
+2025-09-19 07:48:07,397 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/574.h5
+2025-09-19 07:48:08,392 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4497.h5 in 77.10 seconds
+2025-09-19 07:48:08,468 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/12099.h5
+2025-09-19 07:48:08,607 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9507.h5 in 39.05 seconds
+2025-09-19 07:48:08,663 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/19361.h5
+2025-09-19 07:48:09,777 - INFO - File 574: Filtered 7423876 hits and 7 records
+2025-09-19 07:48:10,063 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3308.h5 in 47.23 seconds
+2025-09-19 07:48:10,145 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/18870.h5
+2025-09-19 07:48:10,853 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10502.h5 in 59.95 seconds
+2025-09-19 07:48:10,937 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16365.h5
+2025-09-19 07:48:12,357 - INFO - File 17939: Filtered 3046331 hits and 4 records
+2025-09-19 07:48:12,922 - INFO - File 18870: Filtered 4724583 hits and 5 records
+2025-09-19 07:48:13,456 - INFO - File 19361: Filtered 2163617 hits and 2 records
+2025-09-19 07:48:15,278 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/17112.h5 in 101.22 seconds
+2025-09-19 07:48:15,371 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15164.h5
+2025-09-19 07:48:16,014 - INFO - File 12099: Filtered 660660 hits and 3 records
+2025-09-19 07:48:16,502 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15960.h5 in 27.43 seconds
+2025-09-19 07:48:16,686 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3337.h5
+2025-09-19 07:48:16,862 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2598.h5 in 17.17 seconds
+2025-09-19 07:48:16,934 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/6707.h5
+2025-09-19 07:48:17,171 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/19646.h5 in 30.41 seconds
+2025-09-19 07:48:17,321 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/11638.h5
+2025-09-19 07:48:18,140 - INFO - File 16365: Filtered 11502498 hits and 5 records
+2025-09-19 07:48:18,487 - INFO - File 15164: Filtered 5306080 hits and 6 records
+2025-09-19 07:48:20,764 - INFO - File 11638: Filtered 4613996 hits and 8 records
+2025-09-19 07:48:22,938 - INFO - File 3337: Filtered 26221160 hits and 6 records
+2025-09-19 07:48:23,454 - INFO - File 6707: Filtered 4621512 hits and 4 records
+2025-09-19 07:48:24,052 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2270.h5 in 38.98 seconds
+2025-09-19 07:48:24,100 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/1904.h5
+2025-09-19 07:48:26,834 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/574.h5 in 19.44 seconds
+2025-09-19 07:48:26,912 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2021.h5
+2025-09-19 07:48:28,931 - INFO - File 1904: Filtered 16350949 hits and 4 records
+2025-09-19 07:48:37,353 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3337.h5 in 20.67 seconds
+2025-09-19 07:48:37,423 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3801.h5
+2025-09-19 07:48:42,375 - INFO - File 3801: Filtered 10027078 hits and 4 records
+2025-09-19 07:48:43,946 - INFO - File 2021: Filtered 1365502 hits and 7 records
+2025-09-19 07:48:47,879 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/18870.h5 in 37.73 seconds
+2025-09-19 07:48:47,968 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15682.h5
+2025-09-19 07:48:49,941 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/12475.h5 in 55.30 seconds
+2025-09-19 07:48:50,007 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/17850.h5
+2025-09-19 07:48:53,651 - INFO - File 15682: Filtered 95525 hits and 2 records
+2025-09-19 07:48:55,048 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15164.h5 in 39.68 seconds
+2025-09-19 07:48:55,157 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8101.h5
+2025-09-19 07:48:58,531 - INFO - File 8101: Filtered 3830963 hits and 4 records
+2025-09-19 07:48:59,339 - INFO - File 17850: Filtered 15983214 hits and 4 records
+2025-09-19 07:49:01,425 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/11638.h5 in 44.10 seconds
+2025-09-19 07:49:01,490 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/16770.h5
+2025-09-19 07:49:04,678 - INFO - File 16770: Filtered 4074244 hits and 6 records
+2025-09-19 07:49:05,276 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/1904.h5 in 41.18 seconds
+2025-09-19 07:49:05,352 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2497.h5
+2025-09-19 07:49:05,845 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5372.h5 in 141.03 seconds
+2025-09-19 07:49:05,922 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3945.h5
+2025-09-19 07:49:09,109 - INFO - File 3945: Filtered 13869663 hits and 4 records
+2025-09-19 07:49:16,357 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9354.h5 in 133.13 seconds
+2025-09-19 07:49:16,436 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/19832.h5
+2025-09-19 07:49:17,513 - INFO - File 2497: Filtered 242186 hits and 4 records
+2025-09-19 07:49:22,989 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3945.h5 in 17.07 seconds
+2025-09-19 07:49:23,077 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/14940.h5
+2025-09-19 07:49:23,132 - INFO - File 19832: Filtered 6377953 hits and 4 records
+2025-09-19 07:49:26,903 - INFO - File 14940: Filtered 3793633 hits and 5 records
+2025-09-19 07:49:36,582 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/19361.h5 in 87.92 seconds
+2025-09-19 07:49:36,655 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7400.h5
+2025-09-19 07:49:41,597 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16365.h5 in 90.66 seconds
+2025-09-19 07:49:41,644 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13764.h5
+2025-09-19 07:49:45,050 - INFO - File 7400: Filtered 10438511 hits and 7 records
+2025-09-19 07:49:47,091 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3801.h5 in 69.67 seconds
+2025-09-19 07:49:47,173 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/5900.h5
+2025-09-19 07:49:51,381 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8101.h5 in 56.22 seconds
+2025-09-19 07:49:51,465 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9418.h5
+2025-09-19 07:49:53,819 - INFO - File 13764: Filtered 647077 hits and 4 records
+2025-09-19 07:49:54,621 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/6707.h5 in 97.69 seconds
+2025-09-19 07:49:54,696 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8532.h5
+2025-09-19 07:49:57,665 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/16770.h5 in 56.17 seconds
+2025-09-19 07:49:57,737 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/15632.h5
+2025-09-19 07:49:58,183 - INFO - File 8532: Filtered 9193721 hits and 7 records
+2025-09-19 07:50:02,675 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14522.h5 in 131.61 seconds
+2025-09-19 07:50:02,769 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3732.h5
+2025-09-19 07:50:03,439 - INFO - File 5900: Filtered 25266182 hits and 9 records
+2025-09-19 07:50:04,686 - INFO - File 15632: Filtered 13991159 hits and 5 records
+2025-09-19 07:50:06,172 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/23212.h5 in 142.35 seconds
+2025-09-19 07:50:06,300 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/13069.h5
+2025-09-19 07:50:13,834 - INFO - File 3732: Filtered 22790072 hits and 4 records
+2025-09-19 07:50:16,105 - INFO - File 9418: Filtered 66373 hits and 2 records
+2025-09-19 07:50:26,254 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/14940.h5 in 63.18 seconds
+2025-09-19 07:50:26,337 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/12504.h5
+2025-09-19 07:50:28,753 - INFO - File 13069: Filtered 200000 hits and 4 records
+2025-09-19 07:50:30,604 - INFO - File 12504: Filtered 248218 hits and 4 records
+2025-09-19 07:50:34,366 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8532.h5 in 39.67 seconds
+2025-09-19 07:50:34,438 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/9837.h5
+2025-09-19 07:50:36,074 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/12099.h5 in 147.61 seconds
+2025-09-19 07:50:36,150 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/3896.h5
+2025-09-19 07:50:41,124 - INFO - File 9837: Filtered 747288 hits and 4 records
+2025-09-19 07:50:46,399 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15682.h5 in 118.43 seconds
+2025-09-19 07:50:46,494 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/21374.h5
+2025-09-19 07:50:48,563 - INFO - File 3896: Filtered 8699854 hits and 5 records
+2025-09-19 07:50:54,947 - INFO - File 21374: Filtered 6214826 hits and 4 records
+2025-09-19 07:51:04,473 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/17850.h5 in 134.47 seconds
+2025-09-19 07:51:04,522 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/12905.h5
+2025-09-19 07:51:18,741 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/19832.h5 in 122.30 seconds
+2025-09-19 07:51:18,827 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/7294.h5
+2025-09-19 07:51:24,226 - INFO - File 7294: Filtered 7044107 hits and 6 records
+2025-09-19 07:51:30,843 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/15632.h5 in 93.11 seconds
+2025-09-19 07:51:30,918 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/18325.h5
+2025-09-19 07:51:35,908 - INFO - File 18325: Filtered 12900704 hits and 6 records
+2025-09-19 07:51:43,894 - INFO - File 12905: Filtered 551781 hits and 3 records
+2025-09-19 07:51:50,240 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/12504.h5 in 83.90 seconds
+2025-09-19 07:51:50,321 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/6311.h5
+2025-09-19 07:52:00,642 - INFO - File 6311: Filtered 1357808 hits and 3 records
+2025-09-19 07:52:05,173 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7400.h5 in 148.52 seconds
+2025-09-19 07:52:05,266 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/10928.h5
+2025-09-19 07:52:13,577 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/17939.h5 in 253.67 seconds
+2025-09-19 07:52:13,662 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/6937.h5
+2025-09-19 07:52:19,074 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/21374.h5 in 92.58 seconds
+2025-09-19 07:52:19,186 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8059.h5
+2025-09-19 07:52:25,375 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/18325.h5 in 54.46 seconds
+2025-09-19 07:52:25,454 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4155.h5
+2025-09-19 07:52:32,032 - INFO - File 8059: Filtered 629746 hits and 4 records
+2025-09-19 07:52:35,434 - INFO - File 4155: Filtered 18297253 hits and 6 records
+2025-09-19 07:52:35,527 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3732.h5 in 152.76 seconds
+2025-09-19 07:52:48,113 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/7294.h5 in 89.29 seconds
+2025-09-19 07:52:48,163 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/8607.h5
+2025-09-19 07:53:04,258 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9837.h5 in 149.82 seconds
+2025-09-19 07:53:04,362 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/20336.h5
+2025-09-19 07:53:10,514 - INFO - File 8607: Filtered 48223085 hits and 7 records
+2025-09-19 07:53:17,925 - INFO - File 10928: Filtered 1298776 hits and 4 records
+2025-09-19 07:53:21,317 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/5900.h5 in 214.14 seconds
+2025-09-19 07:53:21,817 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2497.h5 in 256.47 seconds
+2025-09-19 07:53:25,406 - INFO - File 6937: Filtered 336417 hits and 4 records
+2025-09-19 07:53:28,918 - INFO - File 20336: Filtered 1481273 hits and 4 records
+2025-09-19 07:53:40,019 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/3896.h5 in 183.87 seconds
+2025-09-19 07:53:40,105 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/2519.h5
+2025-09-19 07:53:50,949 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13764.h5 in 249.31 seconds
+2025-09-19 07:54:13,585 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2021.h5 in 346.67 seconds
+2025-09-19 07:54:13,675 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/4987.h5
+2025-09-19 07:54:14,998 - INFO - File 2519: Filtered 52401295 hits and 6 records
+2025-09-19 07:54:26,300 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4155.h5 in 120.85 seconds
+2025-09-19 07:54:26,391 - INFO - Processing /viper/ptmp/arego/Red_T_7K_1/21261.h5
+2025-09-19 07:55:10,048 - INFO - File 4987: Filtered 362890 hits and 4 records
+2025-09-19 07:55:22,311 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/6311.h5 in 211.99 seconds
+2025-09-19 07:55:29,953 - INFO - File 21261: Filtered 166802 hits and 3 records
+2025-09-19 07:56:37,886 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8059.h5 in 258.70 seconds
+2025-09-19 07:57:24,936 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/13069.h5 in 438.64 seconds
+2025-09-19 07:57:45,383 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/8607.h5 in 297.22 seconds
+2025-09-19 07:58:07,750 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/9418.h5 in 496.28 seconds
+2025-09-19 08:00:34,679 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/20336.h5 in 450.32 seconds
+2025-09-19 08:00:53,360 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/2519.h5 in 433.26 seconds
+2025-09-19 08:01:49,802 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/12905.h5 in 645.28 seconds
+2025-09-19 08:08:38,822 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/4987.h5 in 865.15 seconds
+2025-09-19 08:11:03,654 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/10928.h5 in 1138.39 seconds
+2025-09-19 08:11:25,618 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/21261.h5 in 1019.23 seconds
+2025-09-19 08:11:50,055 - INFO - Completed /viper/ptmp/arego/Red_T_7K_1_EN_100/6937.h5 in 1176.39 seconds

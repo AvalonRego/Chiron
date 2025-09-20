@@ -1,0 +1,28 @@
+#!/bin/bash -l
+#
+# Python MPI4PY example job script for MPCDF Raven.
+# May use more than one node.
+#
+#SBATCH -o /u/arego/Project/HiWi/job/%j.out
+#SBATCH -e /u/arego/Project/HiWi/job/%j.err
+#SBATCH -J DataGen
+#SBATCH --nodes=1
+#SBATCH --ntasks-per-node=1
+
+#SBATCH --time=24:00:00       # Adjust as needed
+
+#SBATCH --mem=240000
+#SBATCH --cpus-per-task=1
+#SBATCH --mail-type=all
+#SBATCH --mail-user=arego@mpcdf.mpg.de
+
+module purge
+module load anaconda/3/2023.03
+module load gcc/13
+
+source /viper/u/arego/Project/olympus/bin/activate
+
+
+
+python /u/arego/Project/HiWi/merge.py
+

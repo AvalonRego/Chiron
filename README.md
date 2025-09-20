@@ -5,9 +5,10 @@ This is the full pipeline created for :
 - Cleaning and testing for corrupted datasets
 - Merging the Neutrino Event dataset with Bioluminescent and Electrical Noise
 - Redistributing the Events inside the noise
-- Assigning Event Numbers for Machine Learning with Graphnet (link to my other git here)
-
+- Assigning Event Numbers for Machine Learning with [Graphnet](https://github.com/AvalonRego/graphnet) 
 ## Installation on Raven or Viper
+
+Clone and cd into the Repo
 ```bash
 #load modules for Raven
 module load anaconda/3/2023.03 cuda/12.1 jax/0.4.1 cudnn/8.9.0 gcc/11 
@@ -19,10 +20,13 @@ python3 -m venv olympus
 
 . olympus/bin/activate
 
-pip install -r requrments.txt #available in the files above
+pip install -r requrments.txt 
 
 pip install git+https://github.com/cescalara/PROPOSAL.git@fix-lib-load
 
 pip install git+https://github.com/pone-software/ananke.git@main
 
 pip install git+https://github.com/cescalara/olympus.git@test-propagation
+
+```
+Also check [Olympus](https://github.com/pone-software/olympus) and [Ananke](https://github.com/pone-software/ananke)

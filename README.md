@@ -30,3 +30,9 @@ pip install git+https://github.com/cescalara/olympus.git@test-propagation
 
 ```
 Also check [Olympus](https://github.com/pone-software/olympus) and [Ananke](https://github.com/pone-software/ananke)
+
+#Notes on directories
+- BashNGen
+-- Run *_slurm.sh to run the default simpulations
+-- modify the python script to change the energy range and number of records simulated in one go.
+-- modify the [event_type].sh file to change the number of files to be generated.

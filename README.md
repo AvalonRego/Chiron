@@ -34,5 +34,11 @@ Also check [Olympus](https://github.com/pone-software/olympus) and [Ananke](http
 #Notes on directories
 - BashNGen
   - Run *_slurm.sh to run the default simpulations
--- modify the python script to change the energy range and number of records simulated in one go.
--- modify the [event_type].sh file to change the number of files to be generated.
+  - modify the python script to change the energy range and number of records simulated in one go.
+  - modify the [event_type].sh file to change the number of files to be generated.
+- Misc
+  - DataClean.py can be used to check if the datasets are corrupted or not.
+- Merge and Redistribute as the name suggests merges the noise with the event data and redistribute it in such a way that the entire event is always fully contained within the simulated noise.
+- HiWi contains files that can generate various statistics for understanding the dataset and also generate skip list for Event Number assignment
+- AssignEventNo splits simulated records into chunks that are easy for [Graphnet](https://github.com/AvalonRego/graphnet) to train on.
+- Thesis contains the thesis and the scripts to generate some of the plots in it.

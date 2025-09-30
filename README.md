@@ -31,7 +31,7 @@ pip install git+https://github.com/cescalara/olympus.git@test-propagation
 ```
 Also check [Olympus](https://github.com/pone-software/olympus) and [Ananke](https://github.com/pone-software/ananke)
 
-#Notes on directories
+# Notes on directories
 - BashNGen
   - Run *_slurm.sh to run the default simpulations
   - modify the python script to change the energy range and number of records simulated in one go.

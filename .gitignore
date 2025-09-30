@@ -6,3 +6,6 @@
 *.lock
 olympus/*
 *.logMerge/merge_log.txt
+*.log
+*.out
+*.err
